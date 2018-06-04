@@ -32,6 +32,7 @@
   <body>
     <div class="navbar">
       <div class="navbar-inner">
+	  <div class="container">
         <div class="span8">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
@@ -41,9 +42,11 @@
           </ul>
         </div>
       </div>
+	  </div>
     </div>
 
-    <div class="span8">
+    <div class="container">
+	<div class="span8">
 
       <div class="content">
         {{ content }}
@@ -52,6 +55,7 @@
       <hr>
 
     </div>
+	</div>
 
     {% include JB/analytics %}
   </body>
