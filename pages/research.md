@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research - Ted Chen
+title: Research
 description: Ted Hsuan Yun Chen's Research
 ---
 
@@ -45,7 +45,7 @@ My dissertation focuses on methods for working with multilayer network represent
 ##### Reconstructing the Transnational Human Trafficking Network
 - Collaborative project with [Mitchell Goist](https://mitchellgoist.github.io/) and [Christopher Boylan](http://cboylan.com/)
 
-##### Citation Networks
+##### Inferential Analysis of the Supreme Court Citation Network
 - Collaborative project with [Christian Schmid](https://sites.psu.edu/cxs5700), [Bruce Desmarais](http://brucedesmarais.com), and [David Hunter](http://personal.psu.edu/drh20)
 
 ----
@@ -66,6 +66,7 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
 - Collaborative project with Paul Zachary and [Christopher Fariss](http://cfariss.com)
+- [Paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 CSSSA's Annual Conference on Computational Social Science.
 
 ##### How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?
 - Collaborative project with [Chuyu Liu](https://chuyuliu.weebly.com) and [Kevin Reuning](http://www.kevinreuning.com/)
