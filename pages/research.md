@@ -32,7 +32,7 @@ My dissertation focuses on methods for working with multilayer network represent
 
 **Abstract** In this paper I examine whether a transnational community of scientists acting as informal diplomats is effective in inducing states to join the international nuclear regime. Concerns over nuclear buildup and proliferation remain salient and constant in today’s global environment. While there is evidence that nuclear arms control agreements are effective in reducing the spread of nuclear weapons, our understanding of what induces states to sign onto these agreements remains nascent. Drawing on the transnational relations literature, I argue that in addition to commonly-identified factors such as economic and security dependence between joiners, transnational scientific communities can exert influence over state behaviour in the realm of nuclear cooperation. Using archival data, I construct a multilayer network comprising states in the international system and individuals from the scientific community dedicated to nuclear disarmament. I model this network using an exponential random graph model, and examine whether these scientists systematically induced states to join the international nuclear regime and the conditions under which they were most effective.
 
-- Poster for ISA 2018
+- [Poster]({{ BASE_PATH }}/assets/posters/chen_pugwash_isa2018.pdf) for ISA 2018
 
 ---
 
