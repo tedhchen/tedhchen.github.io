@@ -14,7 +14,12 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
   </div>
 </div>
 
-<img src=""../assets/pics/home_open.png"" title= "Welcome to my website." alt="Welcome to my website.", width="50%">
+<div class="span2">
+<a href="../assets/pics/home_open.png">
+	<img src=""../assets/pics/home_open.png"" title= "Welcome to my website." alt="Welcome to my website.", width="50%"></a>
+</div>
+
+
 
 ### Welcome to my website.
 
@@ -44,7 +49,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
         </div>
 
         <div class="span2">
-        <a href=""../assets/pics/chen_head.jpg">
+        <a href="../assets/pics/chen_head.jpg">
             <img src="../assets/pics/chen_head.jpg"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/></a>
         </div>
