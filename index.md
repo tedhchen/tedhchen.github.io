@@ -15,8 +15,8 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
 </div>
 
 <div class="span2">
-<a href="../assets/pics/home_open.png">
-	<img src=""../assets/pics/home_open.png"" title= "Welcome to my website." alt="Welcome to my website.", width="50%"></a>
+<a href="../assets/pics/home_open.jpg">
+	<img src=""../assets/pics/home_open.jpg"" title= "Welcome to my website." alt="Welcome to my website.", width="50%"></a>
 </div>
 
 

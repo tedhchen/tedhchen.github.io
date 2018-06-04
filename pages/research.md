@@ -59,6 +59,7 @@ My dissertation focuses on methods for working with multilayer network represent
 ##### Public–Private Partnerships for the Development of Disaster Resilient Communities
 - Paper published in [Journal of Contingencies and Crisis Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021)
 - Collaborative project with Justine Chen, [Ilan Vertinsky](https://blogs.ubc.ca/ivertinsky/), Lilia Yumagulova, and [Chansoo Park](http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php)
+
 ----
 
 ### <a name="Other Research"></a>Other Research
