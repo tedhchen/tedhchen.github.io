@@ -14,7 +14,7 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
   </div>
 </div>
 
-<div class="span2">
+<div class="container">
 <a href="../assets/pics/home_open.jpg">
 	<img src=""../assets/pics/home_open.jpg"" title= "Welcome to my website." alt="Welcome to my website.", width="50%"></a>
 </div>
@@ -37,7 +37,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
             Ted Hsuan Yun Chen<br/>
             <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
             <a href="https://www.psu.edu">Pennsylvania State University</a><br/>
-            203 Pond Lab</a><br/>
+            203 Pond Lab<br/>
             University Park, PA 16802<br/>
             USA<br/><br/>
 
