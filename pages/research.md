@@ -38,7 +38,7 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ### <a name="Applied Network Analysis"></a>Applied Network Analysis
 
-##### Formal and Informal Diplomacy
+##### FFormal and Informal Diplomacy in the Asia Pacific Region, 1993-2008
 
 - Presentation at APSA 2017
 
@@ -66,7 +66,7 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
 - Collaborative project with Paul Zachary and [Christopher Fariss](http://cfariss.com)
-- [Paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 CSSSA's Annual Conference on Computational Social Science.
+- [Paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 CSSSA's Annual Conference on Computational Social Science
 
 ##### How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?
 - Collaborative project with [Chuyu Liu](https://chuyuliu.weebly.com) and [Kevin Reuning](http://www.kevinreuning.com/)
