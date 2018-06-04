@@ -15,8 +15,10 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
 </div>
 
 <div class="container">
+<div class="span7">
 <img src="../assets/pics/home_open.jpg" 
-		title= "Welcome to my website." alt="Welcome to my website."/>
+		title= "Taken at Taos Pueblo in New Mexico on Oct 21, 2017." alt="Taken at Taos Pueblo in New Mexico on Oct 21, 2017."/>
+		</div>
 </div>
 
 
@@ -33,7 +35,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 <h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span3">
             Ted Hsuan Yun Chen<br/>
             <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
             <a href="https://www.psu.edu">Pennsylvania State University</a><br/>
