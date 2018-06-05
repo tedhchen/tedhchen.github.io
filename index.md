@@ -31,7 +31,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 		<div class="span5">
             Ted Hsuan Yun Chen<br/>
             <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
-            <a href="https://www.psu.edu">Pennsylvania State University</a><br/>
+            <a href="http://www.psu.edu">Pennsylvania State University</a><br/>
             203 Pond Lab<br/>
             University Park, PA 16802<br/>
             USA<br/><br/>
