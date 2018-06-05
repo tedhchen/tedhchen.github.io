@@ -24,9 +24,9 @@
   }
   
 .navbar .brand {
-  padding: 0 15px;
+  padding: 0 0px;
   height: 40px;
-  line-height: 40px;
+  line-height: 0px;
   color: #483d8b;
 }
   
