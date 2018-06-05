@@ -14,22 +14,30 @@
 
 .container-narrownomargin > hr {
   margin: 30px 0; }
-  
-.navbar .nav {
-  float: right; 
-  }
- 
+
+/*nav bar adjustments */  
  .navbar {
   padding: 0 0px; 
   border-color: transparent;
+  min-height: 40px;
   }
-
+  
+.navbar-brand {
+  padding: 0 15px;
+  height: 40px;
+  line-height: 40px;
+}
+  
 .navbar-inner {
   background-color: #f2f3f7; 
   background-image: none;
   background-repeat: no-repeat;
   filter: none;
 }
+
+.navbar .nav {
+  float: right; 
+  }
 
 /* posts index */
 .post > h3.title {
