@@ -20,13 +20,13 @@
   }
  
  .navbar {
-  min-height: 80px;
+  min-height: 60px;
 }
 
 .navbar-brand {
-  padding: 0 15px;
-  height: 80px;
-  line-height: 80px;
+  padding: 0 5px;
+  height: 60px;
+  line-height: 60px;
 }
   
 /* posts index */
