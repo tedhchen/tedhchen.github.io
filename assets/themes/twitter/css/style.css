@@ -19,7 +19,7 @@
  .navbar {
   padding: 0 0px; 
   box-shadow: none;
-  border-color: darkslateblue;
+  border-color: #483d8b;
   min-height: 40px;
   }
   
@@ -27,7 +27,7 @@
   padding: 0 15px;
   height: 40px;
   line-height: 40px;
-  color: darkslateblue;
+  color: #483d8b;
 }
   
 .navbar-inner {
