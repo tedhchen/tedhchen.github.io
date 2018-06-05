@@ -6,7 +6,7 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
 
 
 
-<div class="container">
+<div class="container-narrow">
 <img src="../assets/pics/home_open.jpg" 
 		title= "Taken at Taos Pueblo in New Mexico on Oct 21, 2017." alt="Taken at Taos Pueblo in New Mexico on Oct 21, 2017."/>
 </div>
