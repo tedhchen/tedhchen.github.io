@@ -38,7 +38,7 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ### <a name="Applied Network Analysis"></a>Applied Network Analysis
 
-##### FFormal and Informal Diplomacy in the Asia Pacific Region, 1993-2008
+##### Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008
 
 - Presentation at APSA 2017
 
