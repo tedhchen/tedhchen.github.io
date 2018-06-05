@@ -21,36 +21,35 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 
 
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="navcenter">
-          <li><a href="{{ BASE_PATH }}/assets/chen_cv.pdf">CV</a></li>
-          <li><a href="https://twitter.com/tedhchen">@tedhchen</a></li>
-		  <li><a href="https://github.com/tedhchen">GitHub</a></li>
-      </ul>
-  </div>
-</div>
-
 ---
 
 <div class="container-narrownomargin">
     <div class="row-fluid">
-        <div class="span5">
+        <div class="span7">
 		<h4><a name="contact"></a>Contact</h4>
+		<div class="row-fluid">
+		<div class="span6">
             Ted Hsuan Yun Chen<br/>
             <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
             <a href="https://www.psu.edu">Pennsylvania State University</a><br/>
             203 Pond Lab<br/>
             University Park, PA 16802<br/>
             USA<br/><br/>
-
+			</div>
+			
+			<div class="span6">
             <div id="hide_email">
             Email: <code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!
             </b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave
             </b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
+			
+			Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
+			GitHub: <code><a href="https://github.com/tedhchen">GitHub</a></code><br/>
+			</div>
             </div>
+			</div>
         </div>
-        <div class="span7">
+        <div class="span5">
             <img src="../assets/pics/chen_head_small.jpg"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
         </div>
