@@ -40,10 +40,11 @@
 .navbar .nav > li > a {
 	padding: 10px 15px 10px;
 	text-shadow: none;
+	color: #2f3b45;
 }
 
 .navbar .brand {
-    color: #0088cc;
+    color: #4c76ba;
 	text-shadow: 0 0 0 #ffffff; 
 }
 
