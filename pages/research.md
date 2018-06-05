@@ -4,7 +4,7 @@ title: Research
 description: Ted Hsuan Yun Chen's Research
 ---
 
-<div class="navbar navbar-static-top">
+<div class="navbar navbar-default navbar-static-top">
     <div class="navbar-inner">
         <ul class="nav pull-right">
             <li><a href="#Multilayer Networks">Multilayer Networks</a></li>
