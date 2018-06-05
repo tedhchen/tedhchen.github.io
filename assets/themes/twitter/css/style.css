@@ -7,12 +7,12 @@
 .container-narrow > hr {
   margin: 30px 0; }
 
-.container-narrow-nomargin {
+.container-narrownomargin {
   margin: 0px auto;
   max-width: 900px; 
   padding: 0px; }
 
-.container-narrow-nomargin > hr {
+.container-narrownomargin > hr {
   margin: 30px 0; }
   
 .navbar .nav {
