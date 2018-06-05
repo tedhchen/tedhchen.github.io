@@ -35,7 +35,8 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 
 <div class="container-narrow">
     <div class="row-fluid">
-        <div class="span7">
+	<div class="span1"></div>
+        <div class="span5">
 		<h4><a name="contact"></a>Contact</h4>
             Ted Hsuan Yun Chen<br/>
             <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
@@ -54,9 +55,9 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
             <img src="../assets/pics/chen_head_small.jpg"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
         </div>
+		<div class="span1"></div>
     </div>
 </div>
 
 ---
 
-Credits.
