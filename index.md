@@ -4,15 +4,7 @@ title: Ted Hsuan Yun Chen
 description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Political Science at Pennsylvania State University.
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/chen_cv.pdf">CV</a></li>
-          <li><a href="https://twitter.com/tedhchen">@tedhchen</a></li>
-		  <li><a href="https://github.com/tedhchen">GitHub</a></li>
-      </ul>
-  </div>
-</div>
+
 
 <div class="container">
 <img src="../assets/pics/home_open.jpg" 
@@ -26,6 +18,18 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
 I am a PhD candidate in the Department of Political Science at Pennsylvania State University. I am interested in the application of network methods to understanding complex interdependent systems. Substantively, I am interested in how transnational actors engaging in informal diplomacy influence interstate cooperation.
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf). Details about my research and teaching can be found on their respective pages.<br/>
+
+---
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/chen_cv.pdf">CV</a></li>
+          <li><a href="https://twitter.com/tedhchen">@tedhchen</a></li>
+		  <li><a href="https://github.com/tedhchen">GitHub</a></li>
+      </ul>
+  </div>
+</div>
 
 ---
 
