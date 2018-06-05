@@ -50,11 +50,10 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
             </b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
             </div>
         </div>
-        <div class="span5">
+        <div class="span7">
             <img src="../assets/pics/chen_head_small.jpg"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
         </div>
-		<div class="span2"></div>
     </div>
 </div>
 
