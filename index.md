@@ -44,7 +44,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
             </b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
 			
 			Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
-			GitHub: <code><a href="https://github.com/tedhchen">GitHub</a></code><br/>
+			GitHub: <code><a href="https://github.com/tedhchen">tedhchen</a></code><br/>
 			</div>
             </div>
 			</div>
@@ -56,5 +56,5 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
     </div>
 </div>
 
----
+
 
