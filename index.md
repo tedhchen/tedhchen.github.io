@@ -56,3 +56,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
         </div>
     </div>
 </div>
+
+---
+
+Credits.
