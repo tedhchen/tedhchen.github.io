@@ -6,7 +6,7 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
 
 
 
-<div class="container-narrow">
+<div class="container-narrow-nomargin">
 <img src="../assets/pics/home_open.jpg" 
 		title= "Taken at Taos Pueblo in New Mexico on Oct 21, 2017." alt="Taken at Taos Pueblo in New Mexico on Oct 21, 2017."/>
 </div>
@@ -33,7 +33,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 
 ---
 
-<div class="container-narrow">
+<div class="container-narrow-nomargin">
     <div class="row-fluid">
         <div class="span5">
 		<h4><a name="contact"></a>Contact</h4>
