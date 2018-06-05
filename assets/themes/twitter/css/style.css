@@ -25,6 +25,11 @@
   box-shadow: none;
 }
 
+.navbar-static-top {
+    position: static;
+    margin-bottom: 20px;
+}
+
 .navbar .brand {
     color: #0088cc;
 	text-shadow: 0 0 0 #ffffff; 
