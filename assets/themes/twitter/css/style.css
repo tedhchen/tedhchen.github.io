@@ -36,6 +36,7 @@
   background-repeat: no-repeat;
   filter: none;
   border: 0px;
+  box-shadow: none;
 }
 
 /* posts index */
