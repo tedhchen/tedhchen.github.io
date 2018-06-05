@@ -16,7 +16,7 @@
   margin: 30px 0; }
 
 /*nav bar adjustments */  
-.navbar-inner {
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
   background-color: #eaeaef; 
   background-image: none;
   background-repeat: no-repeat;
