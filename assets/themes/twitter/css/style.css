@@ -37,6 +37,11 @@
 	background-color: #eaeaef;
 }
 
+.navbar .nav > li > a {
+	padding: 10px 0px 15px 10px;
+	text-shadow: none;
+}
+
 .navbar .brand {
     color: #0088cc;
 	text-shadow: 0 0 0 #ffffff; 
