@@ -29,7 +29,14 @@
   height: 60px;
   line-height: 60px;
 }
-  
+
+.navbar-inner {
+  background-color: #f2f3f7; 
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
