@@ -16,7 +16,18 @@
   margin: 30px 0; }
   
 .navbar .nav {
-  float: right; }
+  float: right; 
+  }
+ 
+ .navbar {
+  min-height: 80px;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+}
   
 /* posts index */
 .post > h3.title {
