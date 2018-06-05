@@ -17,12 +17,9 @@
 
 /*nav bar adjustments */  
  .navbar-default {
-  padding: 0 0px; 
   box-shadow: none;
   border-color: #483d8b;
-  min-height: 40px;
   }
- 
   
 .navbar-inner {
   background-color: #eaeaef; 
