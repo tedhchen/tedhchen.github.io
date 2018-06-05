@@ -5,8 +5,8 @@ description: Ted Hsuan Yun Chen's Research
 ---
 
 <div class="navbar navbar-static-top">
-    <div class="navbar-inner pull-right">
-        <ul class="nav">
+    <div class="navbar-inner">
+        <ul class="nav pull-right">
             <li><a href="#Multilayer Networks">Multilayer Networks</a></li>
             <li><a href="#Applied Network Analysis">Applied Network Analysis</a></li>
             <li><a href="#Disaster Management">Disaster Management</a></li>
