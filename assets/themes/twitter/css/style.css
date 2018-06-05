@@ -18,7 +18,8 @@
 /*nav bar adjustments */  
  .navbar {
   padding: 0 0px; 
-  border-color: transparent;
+  box-shadow: none;
+  border-color: darkslateblue;
   min-height: 40px;
   }
   
