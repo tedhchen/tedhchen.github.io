@@ -16,7 +16,7 @@
   margin: 30px 0; }
 
 /*nav bar adjustments */  
- .navbar-default {
+ .navbar {
   box-shadow: none;
   border-color: #483d8b;
   }
@@ -32,6 +32,7 @@
   filter: none;
   border: 0px;
   box-shadow: none;
+  color: #483d8b; 
 }
 
 /* posts index */
