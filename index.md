@@ -19,7 +19,7 @@ I am a PhD candidate in the Department of Political Science at Pennsylvania Stat
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf). Details about my research and teaching can be found on their respective pages.<br/>
 
----
+
 
 <div class="navbar">
   <div class="navbar-inner">
