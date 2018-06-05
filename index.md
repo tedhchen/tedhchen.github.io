@@ -28,7 +28,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
         <div class="span7">
 		<h4><a name="contact"></a>Contact</h4>
 		<div class="row-fluid">
-		<div class="span5">
+		<div class="span6">
             Ted Hsuan Yun Chen<br/>
             <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
             <a href="http://www.psu.edu">Pennsylvania State University</a><br/>
@@ -37,7 +37,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
             USA<br/><br/>
 			</div>
 			
-			<div class="span7">
+			<div class="span6">
             <div id="hide_email">
             Email: <code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!
             </b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave
