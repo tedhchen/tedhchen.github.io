@@ -35,7 +35,6 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 
 <div class="container-narrow">
     <div class="row-fluid">
-	<div class="span1"></div>
         <div class="span5">
 		<h4><a name="contact"></a>Contact</h4>
             Ted Hsuan Yun Chen<br/>
@@ -46,16 +45,16 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>thc</code><b>I</b><code>126</code><b>don't</b><code>@</code><b>want</b><code>p</code><b>spam!
-            </b><code>s</code><b>So</b><code>u</code><b>please</b><code>.</code><b>leave
-            </b><code>e</code><b>me</b><code>d</code><b>alone</b><code>u</code><br/>
+            Email: <code>te</code><b>I</b><code>d.hsu</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!
+            </b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave
+            </b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
             </div>
         </div>
         <div class="span5">
             <img src="../assets/pics/chen_head_small.jpg"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
         </div>
-		<div class="span1"></div>
+		<div class="span2"></div>
     </div>
 </div>
 
