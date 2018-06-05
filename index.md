@@ -23,7 +23,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 
 <div class="navbar">
   <div class="navbar-inner">
-      <ul class="nav">
+      <ul class="navcenter">
           <li><a href="{{ BASE_PATH }}/assets/chen_cv.pdf">CV</a></li>
           <li><a href="https://twitter.com/tedhchen">@tedhchen</a></li>
 		  <li><a href="https://github.com/tedhchen">GitHub</a></li>
