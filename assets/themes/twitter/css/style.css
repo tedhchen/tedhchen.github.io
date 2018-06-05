@@ -22,13 +22,7 @@
   border-color: #483d8b;
   min-height: 40px;
   }
-  
-.navbar .brand {
-  padding: 0 0px;
-  height: 40px;
-  line-height: 0px;
-  color: #483d8b;
-}
+ 
   
 .navbar-inner {
   background-color: #eaeaef; 
