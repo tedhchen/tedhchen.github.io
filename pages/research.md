@@ -19,6 +19,19 @@ description: Ted Hsuan Yun Chen's Research
 
 My dissertation focuses on methods for working with multilayer network representations of complex interdependent systems. I apply these methods to examine the influence transnational actors have on international cooperation.
 
+<div class="container-narrownomargin">
+    <div class="row-fluid">
+        <div class="span7">
+		<h5><a name="contact"></a>Contact</h5>
+		<b>Abstract</b> Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
+		</div>
+        </div>
+        <div class="span5">
+            <img src="../assets/pics/multilayer_levant.png"
+                  title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
+        </div>
+    </div>
+</div>
 
 ##### Statistical Inference for Multilayer Networks in Political Science
 
