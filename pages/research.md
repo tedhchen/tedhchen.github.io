@@ -31,23 +31,27 @@ My dissertation focuses on methods for working with multilayer network represent
         </div>
         <div class="span5">
             <img src="../assets/pics/multilayer_levant.png"
-                  title="Multilayer Representation of the Levantine Conflict Network" alt="Multilayer Representation of the Levantine Conflict Network"/>
+                  title="Multilayer Representation of the Post-Cold War Levantine Conflict Network" alt="Multilayer Representation of the Post-Cold War Levantine Conflict Network"/>
         </div>
     </div>
 </div> 
 
-##### Statistical Inference for Multilayer Networks in Political Science
+<div class="container-narrownomargin">
+    <div class="row-fluid">
+        <div class="span7">
+		<h5>The Pugwash Movement’s Effect on International Nuclear Disarmament</h5>
+		<b>Abstract</b> In this paper I examine whether a transnational community of scientists acting as informal diplomats is effective in inducing states to join the international nuclear regime. Concerns over nuclear buildup and proliferation remain salient and constant in today’s global environment. While there is evidence that nuclear arms control agreements are effective in reducing the spread of nuclear weapons, our understanding of what induces states to sign onto these agreements remains nascent. Drawing on the transnational relations literature, I argue that in addition to commonly-identified factors such as economic and security dependence between joiners, transnational scientific communities can exert influence over state behaviour in the realm of nuclear cooperation. Using archival data, I construct a multilayer network comprising states in the international system and individuals from the scientific community dedicated to nuclear disarmament. I model this network using an exponential random graph model, and examine whether these scientists systematically induced states to join the international nuclear regime and the conditions under which they were most effective.
+			<ul>
+             <li><a href="{{ BASE_PATH }}/assets/posters/chen_pugwash_isa2018.pdf">Poster</a> for ISA 2018.</li>
+			</ul>
+        </div>
+        <div class="span5">
+            <img src="../assets/pics/pugwash_scinet4.png"
+                  title="Network of Pugwash Scientists from 1991-1996" alt="Network of Pugwash Scientists from 1991-1996"/>
+        </div>
+    </div>
+</div> 
 
-**Abstract** Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
-
-- Working paper on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189835)
-- Poster for PolNet 2018 and PolMeth 2018
-
-##### The Pugwash Movement’s Effect on International Nuclear Disarmament
-
-**Abstract** In this paper I examine whether a transnational community of scientists acting as informal diplomats is effective in inducing states to join the international nuclear regime. Concerns over nuclear buildup and proliferation remain salient and constant in today’s global environment. While there is evidence that nuclear arms control agreements are effective in reducing the spread of nuclear weapons, our understanding of what induces states to sign onto these agreements remains nascent. Drawing on the transnational relations literature, I argue that in addition to commonly-identified factors such as economic and security dependence between joiners, transnational scientific communities can exert influence over state behaviour in the realm of nuclear cooperation. Using archival data, I construct a multilayer network comprising states in the international system and individuals from the scientific community dedicated to nuclear disarmament. I model this network using an exponential random graph model, and examine whether these scientists systematically induced states to join the international nuclear regime and the conditions under which they were most effective.
-
-- [Poster]({{ BASE_PATH }}/assets/posters/chen_pugwash_isa2018.pdf) for ISA 2018
 
 ---
 
