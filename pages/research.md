@@ -8,7 +8,7 @@ description: Ted Hsuan Yun Chen's Research
     <div class="navbar-inner">
         <ul class="nav pull-right">
             <li><a href="#Dissertation">Dissertation Project: Multilayer Networks</a></li>
-            <li><a href="#Published Works">Published Works</a></li>
+            <li><a href="#Publications">Publications</a></li>
             <li><a href="#Ongoing Projects">Ongoing Projects</a></li>
         </ul>
     </div>
