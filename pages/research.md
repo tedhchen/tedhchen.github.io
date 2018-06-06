@@ -7,18 +7,17 @@ description: Ted Hsuan Yun Chen's Research
 <div class="navbar navbar-static-top">
     <div class="navbar-inner">
         <ul class="nav pull-right">
-            <li><a href="#Multilayer Networks">Multilayer Networks</a></li>
-            <li><a href="#Applied Network Analysis">Applied Network Analysis</a></li>
-            <li><a href="#Disaster Management">Disaster Management</a></li>
-            <li><a href="#Other Research">Other Research</a></li>
+            <li><a href="#Dissertation">Dissertation Project: Multilayer Networks</a></li>
+            <li><a href="#Published Works">Published Works</a></li>
+            <li><a href="#Ongoing Projects">Ongoing Projects</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="Multilayer Networks"></a>Multilayer Networks (Dissertation Project)
+### <a name="Dissertation"></a>Dissertation Project: Multilayer Networks
 
-My dissertation focuses on methods for working with multilayer network representations of complex interdependent systems. Substantively, I apply these methods to examine the influence transnational actors have on international cooperation.
+My dissertation focuses on methods for working with multilayer network representations of complex interdependent systems. I apply these methods to examine the influence transnational actors have on international cooperation.
 
 
 ##### Statistical Inference for Multilayer Networks in Political Science
@@ -36,44 +35,36 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ---
 
-### <a name="Applied Network Analysis"></a>Applied Network Analysis
+### <a name="Publications"></a>Publications
+##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
+- [Peer-reviewed paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 Computational Social Science Society of the Americas's Annual Conference
+- Coauthored with Paul Zachary and [Christopher Fariss](http://cfariss.com)
 
-##### Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008
+##### Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies
+- Paper published in [Journal of Japanese Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/policybalancing-and-ticketsplitting-problems-with-preference-for-checks-and-balances-in-taiwanese-electoral-studies/3206097B92947CF4EF34026CDF174A70)
+- Coauthored with [Tzu-Ping Liu](https://github.com/tzuliu) and Chung-li Wu
 
-- Presentation at APSA 2017
+##### Public–Private Partnerships for the Development of Disaster Resilient Communities
+- Paper published in [Journal of Contingencies and Crisis Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021)
+- Coauthored with Justine Chen, [Ilan Vertinsky](https://blogs.ubc.ca/ivertinsky/), Lilia Yumagulova, and [Chansoo Park](http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php)
+
+----
+
+### <a name="Ongoing Projects"></a>Ongoing Projects
+
+##### The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey
+- Collaborative project with [Christopher Fariss](http://cfariss.com)
+- [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644)
 
 ##### Reconstructing the Transnational Human Trafficking Network
 - Collaborative project with [Mitchell Goist](https://mitchellgoist.github.io/) and [Christopher Boylan](http://cboylan.com/)
 
 ##### Inferential Analysis of the Supreme Court Citation Network
 - Collaborative project with [Christian Schmid](https://sites.psu.edu/cxs5700), [Bruce Desmarais](http://brucedesmarais.com), and [David Hunter](http://personal.psu.edu/drh20)
-
-----
-
-### <a name="Disaster Management"></a>Disaster Management
-
-##### The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey
-- Collaborative project with [Christopher Fariss](http://cfariss.com)
-- [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644)
-
-##### Public–Private Partnerships for the Development of Disaster Resilient Communities
-- Paper published in [Journal of Contingencies and Crisis Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021)
-- Collaborative project with Justine Chen, [Ilan Vertinsky](https://blogs.ubc.ca/ivertinsky/), Lilia Yumagulova, and [Chansoo Park](http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php)
-
-----
-
-### <a name="Other Research"></a>Other Research
-
-##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
-- Collaborative project with Paul Zachary and [Christopher Fariss](http://cfariss.com)
-- [Paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 CSSSA's Annual Conference on Computational Social Science
+- [GitHub page](https://github.com/desmarais-lab/Supreme_Court_Citation_Network)
 
 ##### How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?
 - Collaborative project with [Chuyu Liu](https://chuyuliu.weebly.com) and [Kevin Reuning](http://www.kevinreuning.com/)
 
-##### Heterogeneity in the Causes and Consequences of Political Assassinations (Data Project)
-- Collaborative project with [Chuyu Liu](https://chuyuliu.weebly.com), [Minnie Minhyung Joo](https://sites.psu.edu/minniejoo/), and Kim Tran
-
-##### Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies
-- Paper published in [Journal of Japanese Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/policybalancing-and-ticketsplitting-problems-with-preference-for-checks-and-balances-in-taiwanese-electoral-studies/3206097B92947CF4EF34026CDF174A70)
-- Collaborative project with [Tzu-Ping Liu](https://github.com/tzuliu) and Chung-li Wu
+##### Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008
+- [Presentation]({{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf) at APSA 2017
