@@ -90,12 +90,13 @@ My dissertation focuses on methods for working with multilayer network represent
 - Collaborative project with [Christopher Fariss](http://cfariss.com)
 - [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644)
 
-##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
-- Coauthored with Paul Zachary and [Christopher Fariss](http://cfariss.com)
-
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
+		<h5>Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior</h5>
+			<ul>
+			 <li>Collabrative project with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
+			</ul>
 		<h5>Reconstructing the Transnational Human Trafficking Network</h5>
 			<ul>
 			 <li>Collaborative project with <a href="https://mitchellgoist.github.io/">Mitchell Goist</a> and <a href="http://cboylan.com/">Christopher Boylan</a></li>
@@ -108,7 +109,6 @@ My dissertation focuses on methods for working with multilayer network represent
 		<h5>How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?</h5>
 			<ul>
              <li>Collaborative project with <a href="https://chuyuliu.weebly.com">Chuyu Liu</a> and <a href="http://www.kevinreuning.com/">Kevin Reuning</a></li>
-			 <li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php">Chansoo Park</a></li>
 			</ul>
 		<h5>Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008</h5>
 			<ul>
