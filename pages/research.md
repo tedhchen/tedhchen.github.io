@@ -23,16 +23,18 @@ My dissertation focuses on methods for working with multilayer network represent
     <div class="row-fluid">
         <div class="span7">
 		<h5>Statistical Inference for Multilayer Networks in Political Science</h5>
-		<b>Abstract</b> Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data. </br>
-		- Working paper on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189835)</br>
-		- Poster for PolNet 2018 and PolMeth 2018
+		<b>Abstract</b> Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
+			<ul>
+             <li>Working paper on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189835">SSRN</a>.</li>
+             <li>Poster for PolNet 2018 and PolMeth 2018</li>
+			</ul>
         </div>
         <div class="span5">
             <img src="../assets/pics/multilayer_levant.png"
                   title="Multilayer Representation of the Levantine Conflict Network" alt="Multilayer Representation of the Levantine Conflict Network"/>
         </div>
     </div>
-</div> </br>
+</div> 
 
 ##### Statistical Inference for Multilayer Networks in Political Science
 
