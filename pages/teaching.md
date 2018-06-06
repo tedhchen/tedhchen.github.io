@@ -11,3 +11,5 @@ description: Ted Hsuan Yun Chen's Teaching
 
 ##### Advanced Research Design (Undergraduate)
 - [Course Outline]({{ BASE_PATH }}/assets/teaching/plsc308_outline.pdf)
+
+---
