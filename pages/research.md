@@ -25,7 +25,7 @@ My dissertation focuses on methods for working with multilayer network represent
 **Abstract** Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
 
 - Working paper on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189835)
-- Poster for Polnet 2018 and Polmeth 2018
+- Poster for PolNet 2018 and PolMeth 2018
 
 ##### The Pugwash Movement’s Effect on International Nuclear Disarmament
 
@@ -36,7 +36,7 @@ My dissertation focuses on methods for working with multilayer network represent
 ---
 
 ### <a name="Publications"></a>Publications
-##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
+##### Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data
 - [Peer-reviewed paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 Computational Social Science Society of the Americas's Annual Conference
 - Coauthored with Paul Zachary and [Christopher Fariss](http://cfariss.com)
 
@@ -55,6 +55,9 @@ My dissertation focuses on methods for working with multilayer network represent
 ##### The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey
 - Collaborative project with [Christopher Fariss](http://cfariss.com)
 - [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644)
+
+##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
+- Coauthored with Paul Zachary and [Christopher Fariss](http://cfariss.com)
 
 ##### Reconstructing the Transnational Human Trafficking Network
 - Collaborative project with [Mitchell Goist](https://mitchellgoist.github.io/) and [Christopher Boylan](http://cboylan.com/)
