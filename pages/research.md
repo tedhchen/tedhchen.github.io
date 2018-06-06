@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research - Ted Hsuan Yun Chen
 description: Ted Hsuan Yun Chen's Research
 ---
 
