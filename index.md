@@ -15,10 +15,9 @@ description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Politica
 
 ### Welcome to my website.
 
-I am a PhD candidate in the Department of Political Science at Pennsylvania State University. I am interested in the application of network methods to understanding complex interdependent systems. Substantively, I am interested in how transnational actors engaging in informal diplomacy influence interstate cooperation.
+I am a PhD candidate in the Department of Political Science at Pennsylvania State University. I study international systems using network approaches. My dissertation focuses on developing approaches to modeling complex systems that span multiple relational contexts. I apply these methods to study how transnational actors engaging in informal diplomacy influence interstate cooperation.
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf). Details about my research and teaching can be found on their respective pages.<br/>
-
 
 
 ---
