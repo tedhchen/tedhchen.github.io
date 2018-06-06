@@ -58,7 +58,7 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
 ---
 
 <div class="container-narrownomargin pull-right">
-  This website is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  <font size="1" color="#eaeaef">This website is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</font>
 </div>
 
 
