@@ -64,13 +64,11 @@ My dissertation focuses on methods for working with multilayer network represent
              <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> presented at the 2017 Computational Social Science Society of the Americas's Annual Conference</li>
 			 <li>Coauthored with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
 			</ul>
-        </div>
 		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
 			<ul>
              <li>Paper published in <a href="https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/policybalancing-and-ticketsplitting-problems-with-preference-for-checks-and-balances-in-taiwanese-electoral-studies/3206097B92947CF4EF34026CDF174A70">Japanese Journal of Political Science</a></li>
 			 <li>Coauthored with <a href="https://github.com/tzuliu">Tzu-Ping Liu</a> and Chung-li Wu</li>
 			</ul>
-        </div>
 		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
 			<ul>
              <li>Paper published in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021">Journal of Contingencies and Crisis Management</a></li>
