@@ -54,19 +54,35 @@ My dissertation focuses on methods for working with multilayer network represent
 
 
 ---
-
 ### <a name="Publications"></a>Publications
-##### Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data
-- [Peer-reviewed paper]({{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf) presented at the 2017 Computational Social Science Society of the Americas's Annual Conference
-- Coauthored with Paul Zachary and [Christopher Fariss](http://cfariss.com)
 
-##### Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies
-- Paper published in [Journal of Japanese Political Science](https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/policybalancing-and-ticketsplitting-problems-with-preference-for-checks-and-balances-in-taiwanese-electoral-studies/3206097B92947CF4EF34026CDF174A70)
-- Coauthored with [Tzu-Ping Liu](https://github.com/tzuliu) and Chung-li Wu
-
-##### Public–Private Partnerships for the Development of Disaster Resilient Communities
-- Paper published in [Journal of Contingencies and Crisis Management](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021)
-- Coauthored with Justine Chen, [Ilan Vertinsky](https://blogs.ubc.ca/ivertinsky/), Lilia Yumagulova, and [Chansoo Park](http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php)
+<div class="container-narrownomargin">
+    <div class="row-fluid">
+        <div class="span7">
+		<h5>The Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
+			<ul>
+             <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> presented at the 2017 Computational Social Science Society of the Americas's Annual Conference</li>
+			 <li>Coauthored with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
+			</ul>
+        </div>
+		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
+			<ul>
+             <li>Paper published in <a href="https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/policybalancing-and-ticketsplitting-problems-with-preference-for-checks-and-balances-in-taiwanese-electoral-studies/3206097B92947CF4EF34026CDF174A70">Japanese Journal of Political Science</a></li>
+			 <li>Coauthored with <a href="https://github.com/tzuliu">Tzu-Ping Liu</a> and Chung-li Wu</li>
+			</ul>
+        </div>
+		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
+			<ul>
+             <li>Paper published in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021">Journal of Contingencies and Crisis Management</a></li>
+			 <li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php">Chansoo Park</a></li>
+			</ul>
+        </div>
+        <div class="span5">
+            <img src="../assets/pics/sah_gp.png"
+                  title="Geoprofile for Twitter Account" alt="Geoprofile for Twitter Account"/>
+        </div>
+    </div>
+</div> 
 
 ----
 
