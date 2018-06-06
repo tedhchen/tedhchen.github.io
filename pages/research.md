@@ -22,16 +22,15 @@ My dissertation focuses on methods for working with multilayer network represent
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
-		<h5><a name="contact"></a>Contact</h5>
+		<h5>Statistical Inference for Multilayer Networks in Political Science</h5>
 		<b>Abstract</b> Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
-		</div>
         </div>
         <div class="span5">
             <img src="../assets/pics/multilayer_levant.png"
-                  title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
+                  title="Multilayer Representation of the Levantine Conflict Network" alt="Multilayer Representation of the Levantine Conflict Network"/>
         </div>
     </div>
-</div>
+</div> </br>
 
 ##### Statistical Inference for Multilayer Networks in Political Science
 
