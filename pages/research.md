@@ -59,7 +59,7 @@ My dissertation focuses on methods for working with multilayer network represent
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
-		<h5>The Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
+		<h5>Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
 			<ul>
              <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> presented at the 2017 Computational Social Science Society of the Americas's Annual Conference</li>
 			 <li>Coauthored with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
@@ -93,15 +93,32 @@ My dissertation focuses on methods for working with multilayer network represent
 ##### Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior
 - Coauthored with Paul Zachary and [Christopher Fariss](http://cfariss.com)
 
-##### Reconstructing the Transnational Human Trafficking Network
-- Collaborative project with [Mitchell Goist](https://mitchellgoist.github.io/) and [Christopher Boylan](http://cboylan.com/)
+<div class="container-narrownomargin">
+    <div class="row-fluid">
+        <div class="span7">
+		<h5>Reconstructing the Transnational Human Trafficking Network
+			<ul>
+			 <li>Collaborative project with <a href="https://mitchellgoist.github.io/">Mitchell Goist</a> and <a href="http://cboylan.com/">Christopher Boylan</a></li>
+			</ul>
+		<h5>Inferential Analysis of the Supreme Court Citation Network</h5>
+			<ul>
+             <li>Collaborative project with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a>, <a href="http://brucedesmarais.com">Bruce Desmarais</a>, and <a href="http://personal.psu.edu/drh20">David Hunter</a>
+			 <li><a href="https://github.com/desmarais-lab/Supreme_Court_Citation_Network">GitHub Repository</a></li>
+			</ul>
+		<h5>How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?</h5>
+			<ul>
+             <li>Collaborative project with <a href="https://chuyuliu.weebly.com">Chuyu Liu</a> and <a href="http://www.kevinreuning.com/">Kevin Reuning</a></li>
+			 <li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php">Chansoo Park</a></li>
+			</ul>
+		<h5>Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008</h5>
+			<ul>
+			<li><a href="{{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf">Poster</a> for APSA 2017.</li>
+			</ul>
+        </div>
+        <div class="span5">
+            <img src="../assets/pics/trafficking_centrality.png"
+                  title="Worst Human Trafficking Offenders over Time." alt="Worst Human Trafficking Offenders over Time."/>
+        </div>
+    </div>
+</div> 
 
-##### Inferential Analysis of the Supreme Court Citation Network
-- Collaborative project with [Christian Schmid](https://sites.psu.edu/cxs5700), [Bruce Desmarais](http://brucedesmarais.com), and [David Hunter](http://personal.psu.edu/drh20)
-- [GitHub page](https://github.com/desmarais-lab/Supreme_Court_Citation_Network)
-
-##### How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?
-- Collaborative project with [Chuyu Liu](https://chuyuliu.weebly.com) and [Kevin Reuning](http://www.kevinreuning.com/)
-
-##### Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008
-- [Presentation]({{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf) at APSA 2017
