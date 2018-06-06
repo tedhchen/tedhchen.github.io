@@ -112,7 +112,7 @@ My dissertation focuses on methods for working with multilayer network represent
 			</ul>
 		<h5>Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008</h5>
 			<ul>
-			<li><a href="{{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf">Poster</a> for APSA 2017</li>
+			<li><a href="{{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf">Presentation</a> for APSA 2017</li>
 			</ul>
         </div>
         <div class="span5">
