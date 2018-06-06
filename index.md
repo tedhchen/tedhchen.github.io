@@ -55,5 +55,11 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
     </div>
 </div>
 
+<footer>
+<div class="container-narrownomargin">
+  <p>This website is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The design of this site is inspired by [Karl Broman's website](https://kborman.org).</p>
+</div>
+</footer>
+
 
 
