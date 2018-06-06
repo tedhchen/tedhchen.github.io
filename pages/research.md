@@ -96,13 +96,13 @@ My dissertation focuses on methods for working with multilayer network represent
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
-		<h5>Reconstructing the Transnational Human Trafficking Network
+		<h5>Reconstructing the Transnational Human Trafficking Network</h5>
 			<ul>
 			 <li>Collaborative project with <a href="https://mitchellgoist.github.io/">Mitchell Goist</a> and <a href="http://cboylan.com/">Christopher Boylan</a></li>
 			</ul>
 		<h5>Inferential Analysis of the Supreme Court Citation Network</h5>
 			<ul>
-             <li>Collaborative project with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a>, <a href="http://brucedesmarais.com">Bruce Desmarais</a>, and <a href="http://personal.psu.edu/drh20">David Hunter</a>
+             <li>Collaborative project with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a>, <a href="http://brucedesmarais.com">Bruce Desmarais</a>, and <a href="http://personal.psu.edu/drh20">David Hunter</a></li>
 			 <li><a href="https://github.com/desmarais-lab/Supreme_Court_Citation_Network">GitHub Repository</a></li>
 			</ul>
 		<h5>How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?</h5>
