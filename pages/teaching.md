@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching - Ted Hsuan Yun Chen
+title: Teaching
 description: Ted Hsuan Yun Chen's Teaching
 ---
 
