@@ -61,7 +61,7 @@ My dissertation focuses on methods for working with multilayer network represent
         <div class="span7">
 		<h5>Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
 			<ul>
-             <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> published in <a href="https://dl.acm.org/citation.cfm?id=3145606">Proceedings of the 2017 International Conference of The Computational Social Science Society of the Americas</a></li></li>
+             <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> published in <a href="https://dl.acm.org/citation.cfm?id=3145606">Proceedings of the 2017 International Conference of The Computational Social Science Society of the Americas</a></li>
 			 <li>Coauthored with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
 			</ul>
 		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
