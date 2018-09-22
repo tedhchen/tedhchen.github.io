@@ -90,7 +90,7 @@ My dissertation focuses on methods for working with multilayer network represent
 <ul>
 	<li>Collaborative project with <a href="http://cfariss.com">Christopher Fariss</a></li>
 	<li><a href="{{ BASE_PATH }}/assets/papers/Chen Fariss - Disaster-induced Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfariss_harvey_tpbw2018.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a></li>
-	<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644">NSF Award</a>
+	<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644">NSF Award</a></li>
 </ul>
 
 <div class="container-narrownomargin">
