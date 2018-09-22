@@ -88,6 +88,9 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ##### The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey
 - Collaborative project with [Christopher Fariss](http://cfariss.com)
+
+<ul><li><a href="{{ BASE_PATH }}/assets/papers/Chen Fariss - Disaster-induced Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfariss_harvey_tpbw2018.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a></li></ul>
+
 - [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644)
 
 <div class="container-narrownomargin">
