@@ -14,7 +14,6 @@ description: Ted Hsuan Yun Chen's Research
     </div>
 </div>
 
-
 ### <a name="Dissertation"></a>Dissertation Project: Multilayer Networks in Political Science
 
 My dissertation focuses on methods for working with multilayer network representations of complex interdependent systems. I apply these methods to examine the influence transnational actors have on international cooperation.
@@ -27,6 +26,7 @@ My dissertation focuses on methods for working with multilayer network represent
 			<ul>
              <li>Working paper on <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3189835">SSRN</a></li>
              <li>Posters for <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polnet2018.pdf">PolNet 2018</a> and <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polmeth2018.pdf">PolMeth 2018</a></li>
+			 <li><a href="https://github.com/tedhchen/multilayer.ergm">GitHub Repository</a> for the companion R package multilayer.ergm (<a href="{{ BASE_PATH }}/pages/policy_multiplex.html">Tutorial link</a>)</li>
 			</ul>
         </div>
         <div class="span5">
