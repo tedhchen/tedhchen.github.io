@@ -39,7 +39,7 @@ My dissertation focuses on methods for working with multilayer network represent
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
-		<h5>The Pugwash Movement’s Effect on International Nuclear Disarmament</h5>
+		<h5>Transnational Scientific Communities Facilitate Cooperation in the International Nuclear Regime: Evidence from the Pugwash Movement</h5>
 		<b>Abstract</b> In this paper I show how transnational scientists influence international cooperation on nuclear treaties. I propose a delegation-based theory for how the transnational scientific community can influence state behavior by providing informational resources to help governments overcome hurdles to cooperation. Internationalist-oriented scientists obtain these informational resources by engaging each other through informal diplomacy. At the same time, they are constrained by what states consider to be permissible, which results in the observed bidirectional influence between state and scientist behavior. In the empirical analysis, I create a network data set from archival data on the Pugwash movement, a transnational community of scientists lobbying for increased extranational control over nuclear technology. I jointly model the international nuclear treaties and transnational Pugwash networks as a multilayer network. Results indicate that mutual reinforcement between the two sets of cooperative ties is a generative feature of the network. Additional evidence showing that results are stronger in open political systems, which afford scientists access to state officials, provides support for the proposed informational mechanism behind this relationship.
 			<ul>
              <li><a href="{{ BASE_PATH }}/assets/posters/chen_pugwash_polmeth2019.pdf">Poster</a> for Polmeth 2019</li>
@@ -59,6 +59,11 @@ My dissertation focuses on methods for working with multilayer network represent
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
+		<h5>Reconstructing and Analyzing the Transnational Human Trafficking Network</h5>
+			<ul>
+			 <li>Peer-reviewed paper published in Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining</li>
+			 <li>Coauthored with <a href="https://mitchellgoist.github.io/">Mitchell Goist</a> and <a href="http://cboylan.com/">Christopher Boylan</a></li>
+			</ul>
 		<h5>Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
 			<ul>
              <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> published in <a href="https://dl.acm.org/citation.cfm?id=3145606">Proceedings of the 2017 International Conference of The Computational Social Science Society of the Americas</a></li>
@@ -99,10 +104,6 @@ My dissertation focuses on methods for working with multilayer network represent
 		<h5>Who Protests? Using Social Media Data to Solve Ecological Inference Problems in Studies of Mass Behavior</h5>
 			<ul>
 			 <li>Collabrative project with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
-			</ul>
-		<h5>Reconstructing the Transnational Human Trafficking Network</h5>
-			<ul>
-			 <li>Collaborative project with <a href="https://mitchellgoist.github.io/">Mitchell Goist</a> and <a href="http://cboylan.com/">Christopher Boylan</a></li>
 			</ul>
 		<h5>Inferential Analysis of the Supreme Court Citation Network</h5>
 			<ul>
