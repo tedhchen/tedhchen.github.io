@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Ted Hsuan Yun Chen
-description: Ted Hsuan Yun Chen is a PhD candidate in the Department of Political Science at Pennsylvania State University.
+description: Ted Hsuan Yun Chen is a postdoctoral researcher at Aalto University and University of Helsinki.
 ---
 
 
