@@ -27,22 +27,17 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
         <div class="span7">
 		<h4><a name="contact"></a>Contact</h4>
 		<div class="row-fluid">
-		<div class="span8">
-            Ted Hsuan Yun Chen<br/>
-            <div id="hide_email">
-            Email: <code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!
-            </b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave
-            </b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
-
+			<div class="span8">
+				Ted Hsuan Yun Chen<br/>
+				<div id="hide_email">
+					<code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!</b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave</b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
+				</div>
 			</div>
-			
-			<div class="span4">
-            			
-			Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
+		</div>
+		<div class="span4">
+            		Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
 			GitHub: <code><a href="https://github.com/tedhchen">tedhchen</a></code><br/>
-			</div>
-            </div>
-			</div>
+		</div>
         </div>
         <div class="span5">
             <img src="../assets/pics/chen_head_small.jpg"
