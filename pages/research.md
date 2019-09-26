@@ -54,18 +54,14 @@ My dissertation focuses on methods for working with multilayer network represent
 
 <div class="container-narrownomargin">
     <div class="row-fluid">
-        <div class="span7">
+        <div class="span11">
 		<h5>Informal Diplomacy Reinforces Formal International Cooperation: Evidence from Track Two Diplomacy in the Asia Pacific</h5>
 		<b>Abstract</b> Track two diplomacy is the set of government-sanctioned but informal diplomatic activities that are intended to overcome difficulties associated with formal diplomatic communication. Track two meetings should complement official diplomacy because their joint characteristics of being external to the government apparatus and low public visibility insulates governments from unwanted audience costs. While track two meetings are a prevalent diplomatic tool, empirical examinations of their effectiveness, especially with larger-scale, statistical approaches, are rare. In this study I take a multilayer network modeling approach to study the relationship between track one and track two diplomacy in the Asia Pacific region. Results indicate strong support for positive mutual reinforcement as a generative feature of the diplomatic cooperation network the region. The two tracks of diplomacy are mutually reinforcing both within and across time periods. Further examination indicates conditional support for the mechanisms outlined. Specifically, democratic homophily is not a factor to cooperation at the track two level, but is a strong predictor of cooperation at the track one level.
         </div>
-        <div class="span5">
+        <div class="span1">
         </div>
     </div>
 </div> 
-<h5>Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008</h5>
-			<ul>
-			<li><a href="{{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf">Presentation</a> for APSA 2017</li>
-			</ul>
 
 ---
 ### <a name="Other Publications"></a>Other Publications
