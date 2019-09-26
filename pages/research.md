@@ -82,12 +82,12 @@ My dissertation focuses on methods for working with multilayer network represent
 		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
 			<ul>
              <li>Paper published in <a href="https://www.cambridge.org/core/journals/japanese-journal-of-political-science/article/policybalancing-and-ticketsplitting-problems-with-preference-for-checks-and-balances-in-taiwanese-electoral-studies/3206097B92947CF4EF34026CDF174A70">Japanese Journal of Political Science</a></li>
-			 <li>Coauthored with <a href="https://github.com/tzuliu">Tzu-Ping Liu</a> and Chung-li Wu</li>
+			 <li>Coauthored with <a href="https://tzuliu.github.io/tpphd/">Tzu-Ping Liu</a> and Chung-li Wu</li>
 			</ul>
 		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
 			<ul>
              <li>Paper published in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-5973.12021">Journal of Contingencies and Crisis Management</a></li>
-			 <li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="http://www.business.mun.ca/why-us/meet-our-people/faculty-instructor-profiles/chansoo-park.php">Chansoo Park</a></li>
+			 <li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="https://www.business.mun.ca/our-people/faculty-instructors/chansoo-park.php">Chansoo Park</a></li>
 			</ul>
         </div>
         <div class="span5">
@@ -103,7 +103,7 @@ My dissertation focuses on methods for working with multilayer network represent
 
 ##### The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey
 <ul>
-	<li>Collaborative project with <a href="http://cfariss.com">Christopher Fariss</a> and <a href="http://sites.psu.edu/xuxu/">Xu Xu</a></li>
+	<li>Collaborative project with <a href="http://cfariss.com">Christopher Fariss</a> and <a href="https://xu-xu.net/">Xu Xu</a></li>
 	<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a> and the 2019 Midwest Political Science Association Meeting</li>
 	<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644">NSF Award</a></li>
 </ul>
