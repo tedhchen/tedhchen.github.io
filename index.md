@@ -15,7 +15,7 @@ description: Ted Hsuan Yun Chen is a postdoctoral researcher at Aalto University
 
 ### Welcome to my website.
 
-I am a postdoctoral researcher at Aalto University and University of Helsinki. I received my PhD in Political Science from the Pennsylvania State University. I study international systems using network approaches. My dissertation focuses on developing approaches to modeling complex systems that span multiple relational contexts. I apply these methods to study how transnational actors engaging in informal diplomacy influence interstate cooperation.
+I am a postdoctoral researcher at Aalto University and University of Helsinki studying climate change politics using network methods. I received my PhD in Political Science from the Pennsylvania State University. My dissertation focuses on developing approaches to modeling complex systems that span multiple relational contexts. I apply these methods to study how transnational actors engaging in informal diplomacy influence interstate cooperation.
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf). Details about my research and teaching can be found on their respective pages.<br/>
 
@@ -27,15 +27,16 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
         <div class="span7">
 		<h4><a name="contact"></a>Contact</h4>
 		<div class="row-fluid">
-			<div class="span8">
+			<div class="span6">
 				Ted Hsuan Yun Chen<br/>
 				<div id="hide_email">
 					<code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!</b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave</b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
 				</div>
 			</div>
-			<div class="span4">
-        	    		Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
+			<div class="span6">
 				GitHub: <code><a href="https://github.com/tedhchen">tedhchen</a></code><br/>
+				Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
+
 			</div>
 		</div>
         </div>
