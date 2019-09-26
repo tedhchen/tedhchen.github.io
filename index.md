@@ -7,8 +7,8 @@ description: Ted Hsuan Yun Chen is a postdoctoral researcher at Aalto University
 
 
 <div class="container-narrownomargin">
-<img src="../assets/pics/banners/taos_pueblo.jpg" 
-		title= "Taken at Taos Pueblo in New Mexico on Oct 21, 2017." alt="Taken at Taos Pueblo in New Mexico on Oct 21, 2017."/>
+<img src="../assets/pics/banners/pugwash_peacehall.jpg" 
+		title= "Taken at Pugwash, Nova Scotia on Jul 27, 2019." alt="Taken at Pugwash, Nova Scotia on Jul 27, 2019."/>
 </div>
 
 
@@ -27,21 +27,17 @@ My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/asset
         <div class="span7">
 		<h4><a name="contact"></a>Contact</h4>
 		<div class="row-fluid">
-		<div class="span6">
+		<div class="span8">
             Ted Hsuan Yun Chen<br/>
-            <a href="http://polisci.la.psu.edu">Department of Political Science</a><br/>
-            <a href="http://www.psu.edu">Pennsylvania State University</a><br/>
-            203 Pond Lab<br/>
-            University Park, PA 16802<br/>
-            USA<br/><br/>
-			</div>
-			
-			<div class="span6">
             <div id="hide_email">
             Email: <code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!
             </b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave
             </b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
+
+			</div>
 			
+			<div class="span4">
+            			
 			Twitter: <code><a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
 			GitHub: <code><a href="https://github.com/tedhchen">tedhchen</a></code><br/>
 			</div>
