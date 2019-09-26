@@ -8,10 +8,10 @@ This page contains all the current and past banners used for my website's landin
 
 ##### Peace Hall, Pugwash, Nova Scotia.
 <div class="container-narrownomargin">
-<img src="../assets/pics/banners/pugwash.jpg" 
+<img src="../assets/pics/banners/pugwash_peacehall.jpg" 
 		title= "Taken at Pugwash, Nova Scotia on Jul 27, 2019." alt="Taken at Pugwash, Nova Scotia on Jul 27, 2019."/>
 </div>
-
+This photo was taken in Pugwash, Nova Scotia in the Summer of 2019 after I defended my dissertation, which included a chapter on the Pugwash movement. This is the site of [the first Pugwash Conference](https://pugwashconferences.files.wordpress.com/2014/02/1957_pugwash_group.jpg "Group photo from the first Pugwash Conference.") which took place in July, 1957. I did abolutely no field work during this trip.
 
 ##### Taos Pueblo, New Mexico.
 <div class="container-narrownomargin">
