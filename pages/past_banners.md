@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Retired Banners
+title: Page Banners
 description: Past Banners for Ted Hsuan Yun Chen's Website
 ---
 
-This page contains all the past banners used for my website's landing page. The images are listed in reverse chronological order. All photos are taken by me unless otherwise credited.
+This page contains all the current and past banners used for my website's landing page. The images are listed in reverse chronological order. All photos are taken by me unless otherwise credited.
 
-#### Taos Pueblo, New Mexico.
+##### Taos Pueblo, New Mexico.
 <div class="container-narrownomargin">
 <img src="../assets/pics/banners/taos_pueblo.jpg" 
 		title= "Taken at Taos Pueblo in New Mexico on Oct 21, 2017." alt="Taken at Taos Pueblo in New Mexico on Oct 21, 2017."/>
