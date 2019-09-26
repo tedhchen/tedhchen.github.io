@@ -8,7 +8,7 @@ description: Ted Hsuan Yun Chen's Research
     <div class="navbar-inner">
         <ul class="nav pull-right">
             <li><a href="#Dissertation">Dissertation Project: Multilayer Networks</a></li>
-            <li><a href="#Publications">Publications</a></li>
+            <li><a href="#Other Publications">Publications</a></li>
             <li><a href="#Ongoing Projects">Ongoing Projects</a></li>
         </ul>
     </div>
@@ -24,7 +24,7 @@ My dissertation focuses on methods for working with multilayer network represent
 		<h5>Statistical Inference for Multilayer Networks in Political Science</h5>
 		<b>Abstract</b> Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
 			<ul>
-             <li><a href="{{ BASE_PATH }}/assets/papers/(2019) Chen - Statistical Inference for Multilayer Networks.pdf">Paper</a> accepted at _Political Science Research and Methods_</li>
+             <li><a href="{{ BASE_PATH }}/assets/papers/(2019) Chen - Statistical Inference for Multilayer Networks.pdf">Paper</a> accepted at Political Science Research and Methods</li>
              <li>Posters for <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polnet2018.pdf">PolNet 2018</a> and <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polmeth2018.pdf">PolMeth 2018</a></li>
 			 <li><a href="https://github.com/tedhchen/multilayer.ergm">GitHub Repository</a> for the companion R package multilayer.ergm (<a href="{{ BASE_PATH }}/pages/policy_multiplex.html">Tutorial link</a>)</li>
 			</ul>
@@ -52,9 +52,23 @@ My dissertation focuses on methods for working with multilayer network represent
     </div>
 </div> 
 
+<div class="container-narrownomargin">
+    <div class="row-fluid">
+        <div class="span7">
+		<h5>Informal Diplomacy Reinforces Formal International Cooperation: Evidence from Track Two Diplomacy in the Asia Pacific</h5>
+		<b>Abstract</b> Track two diplomacy is the set of government-sanctioned but informal diplomatic activities that are intended to overcome difficulties associated with formal diplomatic communication. Track two meetings should complement official diplomacy because their joint characteristics of being external to the government apparatus and low public visibility insulates governments from unwanted audience costs. While track two meetings are a prevalent diplomatic tool, empirical examinations of their effectiveness, especially with larger-scale, statistical approaches, are rare. In this study I take a multilayer network modeling approach to study the relationship between track one and track two diplomacy in the Asia Pacific region. Results indicate strong support for positive mutual reinforcement as a generative feature of the diplomatic cooperation network the region. The two tracks of diplomacy are mutually reinforcing both within and across time periods. Further examination indicates conditional support for the mechanisms outlined. Specifically, democratic homophily is not a factor to cooperation at the track two level, but is a strong predictor of cooperation at the track one level.
+        </div>
+        <div class="span5">
+        </div>
+    </div>
+</div> 
+<h5>Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008</h5>
+			<ul>
+			<li><a href="{{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf">Presentation</a> for APSA 2017</li>
+			</ul>
 
 ---
-### <a name="Other Publications"></a>Publications
+### <a name="Other Publications"></a>Other Publications
 
 <div class="container-narrownomargin">
     <div class="row-fluid">
@@ -114,10 +128,6 @@ My dissertation focuses on methods for working with multilayer network represent
 		<h5>How Does the Historical Legacy of Local Level Casualties Affect Public Opinion of War?</h5>
 			<ul>
              <li>Collaborative project with <a href="https://chuyuliu.weebly.com">Chuyu Liu</a> and <a href="http://www.kevinreuning.com/">Kevin Reuning</a></li>
-			</ul>
-		<h5>Formal and Informal Diplomacy in the Asia Pacific Region, 1993-2008</h5>
-			<ul>
-			<li><a href="{{ BASE_PATH }}/assets/presentations/chen_asiapacific_apsa2017.pdf">Presentation</a> for APSA 2017</li>
 			</ul>
         </div>
         <div class="span5">
