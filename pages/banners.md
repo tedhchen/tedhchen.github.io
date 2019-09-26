@@ -21,3 +21,4 @@ This photo was taken in Pugwash, Nova Scotia in the Summer of 2019 after I defen
 
 This photo was taken at Taos Pueblo in New Mexico in the Fall of 2017 when I attended the International Conference of the Computational Social Science Society of the Americas in Santa Fe, New Mexico.
 
+---
