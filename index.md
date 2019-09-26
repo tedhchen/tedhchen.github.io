@@ -7,7 +7,7 @@ description: Ted Hsuan Yun Chen is a postdoctoral researcher at Aalto University
 
 
 <div class="container-narrownomargin">
-<img src="../assets/pics/home_open.jpg" 
+<img src="../assets/pics/banners/taos_pueblo.jpg" 
 		title= "Taken at Taos Pueblo in New Mexico on Oct 21, 2017." alt="Taken at Taos Pueblo in New Mexico on Oct 21, 2017."/>
 </div>
 
