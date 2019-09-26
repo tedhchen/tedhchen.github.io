@@ -8,7 +8,7 @@ description: Ted Hsuan Yun Chen's Research
     <div class="navbar-inner">
         <ul class="nav pull-right">
             <li><a href="#Dissertation">Dissertation Project: Multilayer Networks</a></li>
-            <li><a href="#Other Publications">Publications</a></li>
+            <li><a href="#Other Publications">Other Publications</a></li>
             <li><a href="#Ongoing Projects">Ongoing Projects</a></li>
         </ul>
     </div>
@@ -24,7 +24,7 @@ My dissertation focuses on methods for working with multilayer network represent
 		<h5>Statistical Inference for Multilayer Networks in Political Science</h5>
 		<b>Abstract</b> Interactions between units in political systems often occur across multiple relational contexts. These relational systems feature interdependencies that result in inferential shortcomings and poorly-fitting models when ignored. General advancements in inferential network analysis have improved our ability to understand relational systems featuring interdependence, but developments specific to working with interdependence that cross relational contexts remain sparse. In this paper, I introduce a multilayer network approach to modeling systems comprising multiple relations using the exponential random graph model (ERGM). In two substantive applications, the first a policy communication network and the second a global conflict network, I demonstrate that the multilayer approach affords inferential leverage and produces models that better fit observed data.
 			<ul>
-             <li><a href="{{ BASE_PATH }}/assets/papers/(2019) Chen - Statistical Inference for Multilayer Networks.pdf">Paper</a> accepted at Political Science Research and Methods</li>
+             <li><a href="{{ BASE_PATH }}/assets/papers/2019_Chen_Statistical_Inference_for_Multilayer_Networks.pdf">Paper</a> accepted at Political Science Research and Methods</li>
              <li>Posters for <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polnet2018.pdf">PolNet 2018</a> and <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polmeth2018.pdf">PolMeth 2018</a></li>
 			 <li><a href="https://github.com/tedhchen/multilayer.ergm">GitHub Repository</a> for the companion R package multilayer.ergm (<a href="{{ BASE_PATH }}/pages/policy_multiplex.html">Tutorial link</a>)</li>
 			</ul>
@@ -76,7 +76,7 @@ My dissertation focuses on methods for working with multilayer network represent
 			</ul>
 		<h5>Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
 			<ul>
-             <li><a href="{{ BASE_PATH }}/assets/papers/(2017) Chen Zachary Fariss - Social Activity Hubs.pdf">Peer-reviewed paper</a> published in <a href="https://dl.acm.org/citation.cfm?id=3145606">Proceedings of the 2017 International Conference of The Computational Social Science Society of the Americas</a></li>
+             <li><a href="{{ BASE_PATH }}/assets/papers/2017_Chen_Zachary_Fariss_Social_Activity_Hubs.pdf">Peer-reviewed paper</a> published in <a href="https://dl.acm.org/citation.cfm?id=3145606">Proceedings of the 2017 International Conference of The Computational Social Science Society of the Americas</a></li>
 			 <li>Coauthored with Paul Zachary and <a href="http://cfariss.com/">Christopher Fariss</a></li>
 			</ul>
 		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
@@ -104,7 +104,7 @@ My dissertation focuses on methods for working with multilayer network represent
 ##### The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey
 <ul>
 	<li>Collaborative project with <a href="http://cfariss.com">Christopher Fariss</a> and <a href="http://sites.psu.edu/xuxu/">Xu Xu</a></li>
-	<li><a href="{{ BASE_PATH }}/assets/papers/Chen Fariss Xu - Disaster-induced Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a> and the 2019 Midwest Political Science Association Meeting</li>
+	<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a> and the 2019 Midwest Political Science Association Meeting</li>
 	<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644">NSF Award</a></li>
 </ul>
 
