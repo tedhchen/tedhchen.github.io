@@ -6,6 +6,13 @@ description: Past Banners for Ted Hsuan Yun Chen's Website
 
 This page contains all the current and past banners used for my website's landing page. The images are listed in reverse chronological order. All photos are taken by me unless otherwise credited.
 
+##### Peace Hall, Pugwash, Nova Scotia.
+<div class="container-narrownomargin">
+<img src="../assets/pics/banners/pugwash.jpg" 
+		title= "Taken at Pugwash, Nova Scotia on Jul 27, 2019." alt="Taken at Pugwash, Nova Scotia on Jul 27, 2019."/>
+</div>
+
+
 ##### Taos Pueblo, New Mexico.
 <div class="container-narrownomargin">
 <img src="../assets/pics/banners/taos_pueblo.jpg" 
