@@ -15,7 +15,7 @@ description: Ted Hsuan Yun Chen is a postdoctoral researcher at Aalto University
 
 ### Welcome to my website.
 
-I am a postdoctoral researcher at Aalto University and University of Helsinki studying climate change politics using network methods. I received my PhD in Political Science from the Pennsylvania State University. My dissertation focuses on developing approaches to modeling complex systems that span multiple relational contexts. I apply these methods to study how transnational actors engaging in informal diplomacy influence interstate cooperation.
+I am a postdoctoral researcher at Aalto University and University of Helsinki studying climate change politics using network methods. I received my PhD in Political Science from the Pennsylvania State University. My primary research agenda focuses on the social consequences of climate change and the efforts to stem these negative and often conflictual outcomes. I am also interested in the domestic and international policy-process surrounding climate policies.
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf). Details about my research and teaching can be found on their respective pages.<br/>
 
