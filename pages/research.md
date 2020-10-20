@@ -25,7 +25,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 <div class="container-narrownomargin">
     <div class="row-fluid">
 		<div class="span12">
-			<img src="../assets/pics/banners/pugwash_peacehall.jpg"
+			<img src="../assets/pics/banners/climate_alignment.jpg"
 				title="Multiplex Network Representation of Issue Alignment" alt="Multiplex Network Representation of Issue Alignment"/>
         </div>
 	</div>
