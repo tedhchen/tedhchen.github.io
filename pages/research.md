@@ -22,6 +22,24 @@ My work in the area of climate politics focuses on the social consequences of cl
 
 <div class="container-narrownomargin">
     <div class="row-fluid">
+		<div class="span12">
+			<img src="../assets/pics/banners/pugwash_peacehall.jpg"
+				title="Multiplex Network Representation of Issue Alignment" alt="Multiplex Network Representation of Issue Alignment"/>
+        </div>
+        <div class="span12">
+		<h5>Polarization of Climate Politics Results from Partisan Sorting: Evidence from Finnish Twittersphere</h5>
+		<b>Abstract</b> Prior research shows that public opinion on climate politics sorts along partisan lines. However, they leave open the question of whether climate politics and other politically salient issues exhibit tendencies for issue alignment, which the political polarization literature identifies as among the most deleterious aspects of polarization. Using a network approach and social media data from the Twitter platform, we study polarization of public opinion toward climate politics and ten other politically salient topics during the 2019 Finnish elections as the emergence of opposing groups in a public forum. We find that while climate politics is not particularly polarized compared to the other topics, it is subject to partisan sorting and issue alignment within the universalist-communitarian dimension of European politics that arose following the growth of right-wing populism. Notably, climate politics is consistently aligned with the immigration issue, and temporal trends indicate that this phenomenon will likely persist.
+			<ul>
+             <li><a href="https://arxiv.org/abs/2007.02706">Preprint</a></li>
+             <li><a href="https://youtu.be/1tKHfqyC9OY">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/assets/pcnet20_slides.pdf">Slides</a>)</li>
+			 <li>Coauthored with Ali Salloum, <a href="https://researchportal.helsinki.fi/en/persons/antti-gronow">Antti Gronow</a>, <a href="https://researchportal.helsinki.fi/en/persons/tuomas-yl%C3%A4-anttila">Tuomas Yla-Anttilä</a>, and <a href="http://www.mkivela.com/">Mikko Kivelä</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="container-narrownomargin">
+    <div class="row-fluid">
         <div class="span7">
 		<h5>The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey</h5>
 			<ul>
@@ -48,7 +66,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 
 ----
 
-### <a name="International Systems"></a>Network Models of International Systems
+### <a name="Network Models of International Systems"></a>Network Models of International Systems
 
 Work in this category include papers from my dissertation project, which uses multilayer network models to demonstrate that transnational actors are influential for international cooperation.
 
@@ -122,7 +140,7 @@ Work in this category include papers from my dissertation project, which uses mu
 		<h5>Generative Dynamics of Supreme Court Citations: Analysis with a New Statistical Model</h5>
 			<ul>
 				<li><a href="https://polmeth.org/publications/generative-dynamics-supreme-court-citations-analysis-new-statistical-model">Paper</a> under Revise and Resubmit at Political Analysis</li>
-				<li>Coauthored with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a> and <a href="http://brucedesmarais.com">Bruce Desmarais</a></a></li>
+				<li>Coauthored with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a> and <a href="http://brucedesmarais.com">Bruce Desmarais</a></li>
 				<li><a href="https://github.com/desmarais-lab/Supreme_Court_Citation_Network">GitHub Repository</a></li>
 				<li><a href="{{ BASE_PATH }}/assets/presentations/schmidetal_scc_apsa2018.pdf">Presentation</a> for APSA 2018</li>
 			</ul>
@@ -136,14 +154,14 @@ Work in this category include papers from my dissertation project, which uses mu
 				<li>Paper published in <a href="https://doi.org/10.1017/S1468109914000097">Japanese Journal of Political Science</a></li>
 				<li>Coauthored with <a href="https://tzuliu.github.io/tpphd/">Tzu-Ping Liu</a> and Chung-li Wu</li>
 			</ul>
-		<h5>Exposure to Discretionary Arrests increases Support for Anti-Police Protests</h5>
         </div>
 		<div class="span5">
             <img src="../assets/pics/scc_layers.png"
                   title="Citation Network of the US Supreme Court 1937-2015." alt="Citation Network of the US Supreme Court 1937-2015."/>
         </div>
 		<div class="span12">
-		<b>Abstract</b>The legitimacy of the state rests on individuals' perceptions of fairness when interacting with state institutions and state agents. Though a citizen will accept sanctions from the state and its agents when the benefits of enforced outcomes outweigh relinquished freedoms, fairness is essential to maintain this agreement. The police as an institution and as individual agents have wide latitude to detain and use force against individuals. We study support for and the legitimacy of policing in the context of the anti-police protests in Baltimore, MD following the death of Freddie Gray in April, 2015. Using data from police records and social media, we show that individuals with higher exposure to discretionary arrests --- arrests that are potentially viewed as illegitimate or arbitrary --- are more likely to support protests against the police. In contrast, we demonstrate that exposure to arrests for major crimes such as murder, does not follow the same pattern. Thus support for the police as an institution varies systematically with exposure to arbitrary and capricious encounters with police agents. As these grievance generating encounters become more widespread, we expect to see increased protests against the police and further erosion in support of the police as an institution. Alternatively, shifting institutional resources to focus on major crimes and limiting the discretionary authority of police agents when interacting with the public may help to repair the legitimacy of policing institutions over the long term.
+		<h5>Exposure to Discretionary Arrests increases Support for Anti-Police Protests</h5>
+		<b>Abstract</b> The legitimacy of the state rests on individuals' perceptions of fairness when interacting with state institutions and state agents. Though a citizen will accept sanctions from the state and its agents when the benefits of enforced outcomes outweigh relinquished freedoms, fairness is essential to maintain this agreement. The police as an institution and as individual agents have wide latitude to detain and use force against individuals. We study support for and the legitimacy of policing in the context of the anti-police protests in Baltimore, MD following the death of Freddie Gray in April, 2015. Using data from police records and social media, we show that individuals with higher exposure to discretionary arrests --- arrests that are potentially viewed as illegitimate or arbitrary --- are more likely to support protests against the police. In contrast, we demonstrate that exposure to arrests for major crimes such as murder, does not follow the same pattern. Thus support for the police as an institution varies systematically with exposure to arbitrary and capricious encounters with police agents. As these grievance generating encounters become more widespread, we expect to see increased protests against the police and further erosion in support of the police as an institution. Alternatively, shifting institutional resources to focus on major crimes and limiting the discretionary authority of police agents when interacting with the public may help to repair the legitimacy of policing institutions over the long term.
 			<ul>
 			 <li>Coauthored with <a href="http://cfariss.com/">Christopher Fariss</a> and Paul Zachary</li>
 			</ul>
@@ -151,3 +169,4 @@ Work in this category include papers from my dissertation project, which uses mu
     </div>
 </div> 
 
+----
