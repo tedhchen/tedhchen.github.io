@@ -105,7 +105,7 @@ Work in this category include papers from my dissertation project, which uses mu
         </div>
 		<div class="span5">
             <img src="../assets/pics/trafficking_centrality.png"
-                  title="Worst Human Trafficking Offenders over Time." alt="Worst Human Trafficking Offenders over Time."/>
+                  title="Worst Human Trafficking Offenders over Time." alt="Worst Human Trafficking Offenders over Time"/>
         </div>
     </div>
 </div> 
@@ -120,8 +120,8 @@ Work in this category include papers from my dissertation project, which uses mu
 			</ul>
         </div>
         <div class="span5">
-            <img src="../assets/pics/pugwash_scinet4.png"
-                  title="Network of Pugwash Scientists from 1991-1996" alt="Network of Pugwash Scientists from 1991-1996"/>
+            <img src="../assets/pics/iaea_scientist.png"
+                  title="IAEA Membership and Pugwash Participation in 1957" alt="IAEA Membership and Pugwash Participation in 1957"/>
         </div>
     </div>
 </div> 
@@ -162,7 +162,7 @@ Work in this category include papers from my dissertation project, which uses mu
         </div>
 		<div class="span5">
             <img src="../assets/pics/scc_layers.png"
-                  title="Citation Network of the US Supreme Court 1937-2015." alt="Citation Network of the US Supreme Court 1937-2015."/>
+                  title="Citation Network of the US Supreme Court 1937-2015." alt="Citation Network of the US Supreme Court 1937-2015"/>
         </div>
 	</div>
 </div>
