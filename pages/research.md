@@ -16,6 +16,8 @@ description: Ted Hsuan Yun Chen's Research
 
 This page shows my research by topics. For a chronological summary of my publications, please see my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf).
 
+----
+
 ### <a name="Climate Politics"></a>Climate Politics
 
 My work in the area of climate politics focuses on the social consequences of climate change and the efforts to stem these negative and often conflictual outcomes.
@@ -26,6 +28,10 @@ My work in the area of climate politics focuses on the social consequences of cl
 			<img src="../assets/pics/banners/pugwash_peacehall.jpg"
 				title="Multiplex Network Representation of Issue Alignment" alt="Multiplex Network Representation of Issue Alignment"/>
         </div>
+	</div>
+</div>
+<div class="container-narrownomargin">
+    <div class="row-fluid">
         <div class="span12">
 		<h5>Polarization of Climate Politics Results from Partisan Sorting: Evidence from Finnish Twittersphere</h5>
 		<b>Abstract</b> Prior research shows that public opinion on climate politics sorts along partisan lines. However, they leave open the question of whether climate politics and other politically salient issues exhibit tendencies for issue alignment, which the political polarization literature identifies as among the most deleterious aspects of polarization. Using a network approach and social media data from the Twitter platform, we study polarization of public opinion toward climate politics and ten other politically salient topics during the 2019 Finnish elections as the emergence of opposing groups in a public forum. We find that while climate politics is not particularly polarized compared to the other topics, it is subject to partisan sorting and issue alignment within the universalist-communitarian dimension of European politics that arose following the growth of right-wing populism. Notably, climate politics is consistently aligned with the immigration issue, and temporal trends indicate that this phenomenon will likely persist.
@@ -159,6 +165,10 @@ Work in this category include papers from my dissertation project, which uses mu
             <img src="../assets/pics/scc_layers.png"
                   title="Citation Network of the US Supreme Court 1937-2015." alt="Citation Network of the US Supreme Court 1937-2015."/>
         </div>
+	</div>
+</div>
+<div class="container-narrownomargin">
+    <div class="row-fluid">
 		<div class="span12">
 		<h5>Exposure to Discretionary Arrests increases Support for Anti-Police Protests</h5>
 		<b>Abstract</b> The legitimacy of the state rests on individuals' perceptions of fairness when interacting with state institutions and state agents. Though a citizen will accept sanctions from the state and its agents when the benefits of enforced outcomes outweigh relinquished freedoms, fairness is essential to maintain this agreement. The police as an institution and as individual agents have wide latitude to detain and use force against individuals. We study support for and the legitimacy of policing in the context of the anti-police protests in Baltimore, MD following the death of Freddie Gray in April, 2015. Using data from police records and social media, we show that individuals with higher exposure to discretionary arrests --- arrests that are potentially viewed as illegitimate or arbitrary --- are more likely to support protests against the police. In contrast, we demonstrate that exposure to arrests for major crimes such as murder, does not follow the same pattern. Thus support for the police as an institution varies systematically with exposure to arbitrary and capricious encounters with police agents. As these grievance generating encounters become more widespread, we expect to see increased protests against the police and further erosion in support of the police as an institution. Alternatively, shifting institutional resources to focus on major crimes and limiting the discretionary authority of police agents when interacting with the public may help to repair the legitimacy of policing institutions over the long term.
