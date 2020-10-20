@@ -62,6 +62,7 @@ Work in this category include papers from my dissertation project, which uses mu
              <li>Posters for <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polnet2018.pdf">PolNet 2018</a> and <a href="{{ BASE_PATH }}/assets/posters/chen_multilayer_polmeth2018.pdf">PolMeth 2018</a></li>
 			 <li><a href="https://github.com/tedhchen/multilayer.ergm">GitHub Repository</a> for the companion R package multilayer.ergm (<a href="{{ BASE_PATH }}/pages/policy_multiplex.html">Tutorial link</a>)</li>
 			</ul>
+		</div>
 		<div class="span5">
 			<img src="../assets/pics/multilayer_levant.png"
 				title="Multilayer Representation of the Post-Cold War Levantine Conflict Network" alt="Multilayer Representation of the Post-Cold War Levantine Conflict Network"/>
@@ -73,7 +74,7 @@ Work in this category include papers from my dissertation project, which uses mu
     <div class="row-fluid">
         <div class="span7">
 		<h5>Reconstructing and Analyzing the Transnational Human Trafficking Network</h5>
-		<b>Abstract</b>Human trafficking is a global problem which impacts a countless number of individuals every year. In this project, we demonstrate how machine learning techniques and qualitative reports can be used to generate new valuable quantitative information on human trafficking. Our approach generates original data, which we release publicly, on the directed trafficking relationship between countries that can be used to reconstruct the global transnational human trafficking network. Using this new data and statistical network analysis, we identify the most influential countries in the network and analyze how different factors and network structures influence transnational trafficking. Most importantly, our methods and data can be employed by policymakers, non-governmental organizations, and researchers to help combat the problem of human trafficking.
+		<b>Abstract</b> Human trafficking is a global problem which impacts a countless number of individuals every year. In this project, we demonstrate how machine learning techniques and qualitative reports can be used to generate new valuable quantitative information on human trafficking. Our approach generates original data, which we release publicly, on the directed trafficking relationship between countries that can be used to reconstruct the global transnational human trafficking network. Using this new data and statistical network analysis, we identify the most influential countries in the network and analyze how different factors and network structures influence transnational trafficking. Most importantly, our methods and data can be employed by policymakers, non-governmental organizations, and researchers to help combat the problem of human trafficking.
 			<ul>
 			 <li>Peer-reviewed paper published in <a href="https://dl.acm.org/doi/10.1145/3341161.3342879">Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining</a></li>
 			 <li>Coauthored with <a href="https://mitchellgoist.github.io/">Mitchell Goist</a> and <a href="http://cboylan.com/">Christopher Boylan</a></li>
@@ -111,7 +112,7 @@ Work in this category include papers from my dissertation project, which uses mu
     </div>
 </div> 
 
----
+----
 
 ### <a name="Other Work"></a>Other Work
 
@@ -136,16 +137,17 @@ Work in this category include papers from my dissertation project, which uses mu
 				<li>Coauthored with <a href="https://tzuliu.github.io/tpphd/">Tzu-Ping Liu</a> and Chung-li Wu</li>
 			</ul>
 		<h5>Exposure to Discretionary Arrests increases Support for Anti-Police Protests</h5>
-		<b>Abstract</b>The legitimacy of the state rests on individuals' perceptions of fairness when interacting with state institutions and state agents. Though a citizen will accept sanctions from the state and its agents when the benefits of enforced outcomes outweigh relinquished freedoms, fairness is essential to maintain this agreement. The police as an institution and as individual agents have wide latitude to detain and use force against individuals. We study support for and the legitimacy of policing in the context of the anti-police protests in Baltimore, MD following the death of Freddie Gray in April, 2015. Using data from police records and social media, we show that individuals with higher exposure to discretionary arrests --- arrests that are potentially viewed as illegitimate or arbitrary --- are more likely to support protests against the police. In contrast, we demonstrate that exposure to arrests for major crimes such as murder, does not follow the same pattern. Thus support for the police as an institution varies systematically with exposure to arbitrary and capricious encounters with police agents. As these grievance generating encounters become more widespread, we expect to see increased protests against the police and further erosion in support of the police as an institution. Alternatively, shifting institutional resources to focus on major crimes and limiting the discretionary authority of police agents when interacting with the public may help to repair the legitimacy of policing institutions over the long term.
-			<ul>
-			 <li>Coauthored with <a href="http://cfariss.com/">Christopher Fariss</a> and Paul Zachary</li>
-			</ul>
         </div>
 		<div class="span5">
             <img src="../assets/pics/scc_layers.png"
                   title="Citation Network of the US Supreme Court 1937-2015." alt="Citation Network of the US Supreme Court 1937-2015."/>
         </div>
+		<div class="span12">
+		<b>Abstract</b>The legitimacy of the state rests on individuals' perceptions of fairness when interacting with state institutions and state agents. Though a citizen will accept sanctions from the state and its agents when the benefits of enforced outcomes outweigh relinquished freedoms, fairness is essential to maintain this agreement. The police as an institution and as individual agents have wide latitude to detain and use force against individuals. We study support for and the legitimacy of policing in the context of the anti-police protests in Baltimore, MD following the death of Freddie Gray in April, 2015. Using data from police records and social media, we show that individuals with higher exposure to discretionary arrests --- arrests that are potentially viewed as illegitimate or arbitrary --- are more likely to support protests against the police. In contrast, we demonstrate that exposure to arrests for major crimes such as murder, does not follow the same pattern. Thus support for the police as an institution varies systematically with exposure to arbitrary and capricious encounters with police agents. As these grievance generating encounters become more widespread, we expect to see increased protests against the police and further erosion in support of the police as an institution. Alternatively, shifting institutional resources to focus on major crimes and limiting the discretionary authority of police agents when interacting with the public may help to repair the legitimacy of policing institutions over the long term.
+			<ul>
+			 <li>Coauthored with <a href="http://cfariss.com/">Christopher Fariss</a> and Paul Zachary</li>
+			</ul>
+		</div>
     </div>
 </div> 
 
----
