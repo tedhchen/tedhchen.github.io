@@ -36,9 +36,8 @@ My work in the area of climate politics focuses on the social consequences of cl
 		<h5>Polarization of Climate Politics Results from Partisan Sorting: Evidence from Finnish Twittersphere</h5>
 		<b>Abstract</b> Prior research shows that public opinion on climate politics sorts along partisan lines. However, they leave open the question of whether climate politics and other politically salient issues exhibit tendencies for issue alignment, which the political polarization literature identifies as among the most deleterious aspects of polarization. Using a network approach and social media data from the Twitter platform, we study polarization of public opinion toward climate politics and ten other politically salient topics during the 2019 Finnish elections as the emergence of opposing groups in a public forum. We find that while climate politics is not particularly polarized compared to the other topics, it is subject to partisan sorting and issue alignment within the universalist-communitarian dimension of European politics that arose following the growth of right-wing populism. Notably, climate politics is consistently aligned with the immigration issue, and temporal trends indicate that this phenomenon will likely persist.
 			<ul>
-             <li><a href="https://arxiv.org/abs/2007.02706">Preprint</a></li>
-             <li><a href="https://youtu.be/1tKHfqyC9OY">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/assets/pcnet20_slides.pdf">Slides</a>)</li>
-			 <li>Coauthored with Ali Salloum, <a href="https://researchportal.helsinki.fi/en/persons/antti-gronow">Antti Gronow</a>, <a href="https://researchportal.helsinki.fi/en/persons/tuomas-yl%C3%A4-anttila">Tuomas Yla-Anttilä</a>, and <a href="http://www.mkivela.com/">Mikko Kivelä</a></li>
+				<li><a href="https://arxiv.org/abs/2007.02706">Preprint</a>, coauthored with Ali Salloum, <a href="https://researchportal.helsinki.fi/en/persons/antti-gronow">Antti Gronow</a>, <a href="https://researchportal.helsinki.fi/en/persons/tuomas-yl%C3%A4-anttila">Tuomas Yla-Anttilä</a>, and <a href="http://www.mkivela.com/">Mikko Kivelä</a></li>
+				<li><a href="https://youtu.be/1tKHfqyC9OY">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/assets/pcnet20_slides.pdf">Slides</a>)</li>
 			</ul>
 		</div>
 	</div>
@@ -50,7 +49,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 		<h5>The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey</h5>
 			<ul>
 				<li>Coauthored with <a href="http://cfariss.com">Christopher Fariss</a> and <a href="https://xu-xu.net/">Xu Xu</a></li>
-				<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a> and the 2019 Midwest Political Science Association Meeting</li>
+				<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/">2018 Toronto Political Behaviour Workshop</a> and MPSA 2019</li>
 				<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644">NSF Award</a></li>
 			</ul>
 		<h5>Spread of Tweets in Climate Discussions</h5>
@@ -64,8 +63,8 @@ My work in the area of climate politics focuses on the social consequences of cl
 			</ul>
         </div>
         <div class="span5">
-            <img src="../assets/pics/sah_gp.png"
-                  title="Geoprofile for Twitter Account" alt="Geoprofile for Twitter Account"/>
+            <img src="../assets/pics/houston_flooding.png"
+                  title="Maximum Inundation Map for Houston after Hurricane Harvey" alt="Maximum Inundation Map for Houston after Hurricane Harvey"/>
         </div>
     </div>
 </div> 
