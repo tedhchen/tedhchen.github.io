@@ -54,7 +54,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 			</ul>
 		<h5>Spread of Tweets in Climate Discussions</h5>
 			<ul>
-				<li>Coauthored with Yan Xia and <a href="http://www.mkivela.com/">Mikko Kivelä</a></li>
+				<li><a href="https://arxiv.org/abs/2010.09801">Preprint</a>, coauthored with Yan Xia and <a href="http://www.mkivela.com/">Mikko Kivelä</a></li>
 			</ul>		
 		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
 			<ul>
