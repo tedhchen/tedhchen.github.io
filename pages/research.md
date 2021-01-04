@@ -146,7 +146,7 @@ Work in this category include papers from my dissertation project, which uses mu
 			<ul>
 				<li><a href="https://polmeth.org/publications/generative-dynamics-supreme-court-citations-analysis-new-statistical-model">Paper</a> Conditionally Accepted at Political Analysis</li>
 				<li>Coauthored with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a> and <a href="http://brucedesmarais.com">Bruce Desmarais</a></li>
-				<li><a href="https://github.com/schmid86/cERGM">GitHub Repository</a></li> for companion R package cERGM
+				<li><a href="https://github.com/schmid86/cERGM">GitHub Repository</a> for companion R package cERGM</li>
 				<li><a href="{{ BASE_PATH }}/assets/presentations/schmidetal_scc_apsa2018.pdf">Presentation</a> for APSA 2018</li>
 			</ul>
 		<h5>Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
