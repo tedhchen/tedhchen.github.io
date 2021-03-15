@@ -19,6 +19,8 @@ I am a postdoctoral researcher at Aalto University and University of Helsinki st
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf). Details about my research and teaching can be found on their respective pages.<br/>
 
+To access the website for the joint course between Global Climate Governance (Univ Helsinki GPC-O319) and Applied Data Science (Aalto Univ CS-E5770), click [here]({{ BASE_PATH }}/ClimateGovernanceCSS).
+
 
 ---
 
