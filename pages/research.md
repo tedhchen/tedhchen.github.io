@@ -112,6 +112,18 @@ Work in this category include papers from my dissertation project, which uses mu
 
 <div class="container-narrownomargin">
     <div class="row-fluid">
+        <div class="span12">
+		<h5>Informal Diplomacy Reinforces Formal International Cooperation: Evidence from Track Two Diplomacy</h5>
+		<b>Abstract</b> Track two diplomacy is the set of government-sanctioned but informal diplomatic activities that are intended to overcome difficulties associated with formal diplomacy. Track two meetings should complement official diplomacy because they are external to the government apparatus and have low public visibility, insulating governments from unwanted commitment and attention. While track two meetings are a prevalent diplomatic tool, empirical examinations of their effectiveness using larger-scale statistical approaches are rare. Using a multilayer network approach, I explore the relationship between official and track two diplomacy in the Asia Pacific region using a new network data set constructed from diplomatic meeting records. Results indicate that the two tracks of diplomacy are mutually reinforcing, which suggests that track two diplomacy is effective in facilitating formal international cooperation. Further examination finds evidence to support the notion that states strategically select between different tracks of diplomacy to avoid being publicly tied to unpalatable opponents.
+			<ul>
+             <li><a href="https://doi.org/10.31235/osf.io/647gt">Preprint</a></li>
+			</ul>
+        </div>
+    </div>
+</div> 
+
+<div class="container-narrownomargin">
+    <div class="row-fluid">
         <div class="span7">
 		<h5>Transnational Scientific Communities Facilitate Cooperation in the International Nuclear Regime: Evidence from the Pugwash Movement</h5>
 		<b>Abstract</b> In this paper I show how transnational scientists influence international cooperation on nuclear treaties. I propose a delegation-based theory for how the transnational scientific community can influence state behavior by providing informational resources to help governments overcome hurdles to cooperation. Internationalist-oriented scientists obtain these informational resources by engaging each other through informal diplomacy. At the same time, they are constrained by what states consider to be permissible, which results in the observed bidirectional influence between state and scientist behavior. In the empirical analysis, I create a network data set from archival data on the Pugwash movement, a transnational community of scientists lobbying for increased extranational control over nuclear technology. I jointly model the international nuclear treaties and transnational Pugwash networks as a multilayer network. Results indicate that mutual reinforcement between the two sets of cooperative ties is a generative feature of the network. Additional evidence showing that results are stronger in open political systems, which afford scientists access to state officials, provides support for the proposed informational mechanism behind this relationship.
@@ -126,17 +138,6 @@ Work in this category include papers from my dissertation project, which uses mu
     </div>
 </div> 
 
-<div class="container-narrownomargin">
-    <div class="row-fluid">
-        <div class="span12">
-		<h5>Informal Diplomacy Reinforces Formal International Cooperation: Evidence from Track Two Diplomacy</h5>
-		<b>Abstract</b> Track two diplomacy is the set of government-sanctioned but informal diplomatic activities that are intended to overcome difficulties associated with formal diplomacy. Track two meetings should complement official diplomacy because they are external to the government apparatus and have low public visibility, insulating governments from unwanted commitment and attention. While track two meetings are a prevalent diplomatic tool, empirical examinations of their effectiveness using larger-scale statistical approaches are rare. Using a multilayer network approach, I explore the relationship between official and track two diplomacy in the Asia Pacific region using a new network data set constructed from diplomatic meeting records. Results indicate that the two tracks of diplomacy are mutually reinforcing, which suggests that track two diplomacy is effective in facilitating formal international cooperation. Further examination finds evidence to support the notion that states strategically select between different tracks of diplomacy to avoid being publicly tied to unpalatable opponents.
-			<ul>
-             <li><a href="https://doi.org/10.31235/osf.io/647gt">Preprint</a></li>
-			</ul>
-        </div>
-    </div>
-</div> 
 
 ----
 
@@ -147,7 +148,7 @@ Work in this category include papers from my dissertation project, which uses mu
         <div class="span7">
 		<h5>Generative Dynamics of Supreme Court Citations: Analysis with a New Statistical Model</h5>
 			<ul>
-				<li><a href="https://polmeth.org/publications/generative-dynamics-supreme-court-citations-analysis-new-statistical-model">Paper</a> Conditionally Accepted at Political Analysis</li>
+				<li><a href="https://arxiv.org/abs/2101.07197">Paper</a> Accepted at Political Analysis</li>
 				<li>Coauthored with <a href="https://sites.psu.edu/cxs5700">Christian Schmid</a> and <a href="http://brucedesmarais.com">Bruce Desmarais</a></li>
 				<li><a href="https://github.com/schmid86/cERGM">GitHub Repository</a> for companion R package cERGM</li>
 				<li><a href="{{ BASE_PATH }}/assets/presentations/schmidetal_scc_apsa2018.pdf">Presentation</a> for APSA 2018</li>
