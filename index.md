@@ -26,7 +26,7 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 
 <div class="container-narrownomargin">
     <div class="row-fluid">
-        <div class="span7">
+        <div class="span6">
 		<h4><a name="contact"></a>Contact</h4>
 		<div class="row-fluid">
 			<div class="span6">
@@ -35,16 +35,17 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 					<code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!</b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave</b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
 				</div>
 				<code>Twitter: <a href="https://twitter.com/tedhchen">@tedhchen</a></code><br/>
+				<code>GitHub: <a href="https://github.com/tedhchen">tedhchen</a></code><br/>
+				<code>ORCID: <a href="https://orcid.org/0000-0002-3279-8710">0000-0002-3279-8710</a></code><br/>
+				<code>Google Scholar: <a href="http://bit.ly/GS_tedhchen">GS_tedhchen</a></code><br/>
 			</div>
 			<div class="span6">
-				<code>GitHub: <a href="https://github.com/tedhchen">tedhchen</a></code><br/>
-				<code>ORCID: <a href="https://orcid.org/0000-0002-3279-8710">orcid.org/0000-0002-3279-8710</a></code><br/>
-				<code>Google Scholar: <a href="http://bit.ly/GS_tedhchen">bit.ly/GS_tedhchen</a></code><br/>
+
 			</div>
 		</div>
         </div>
-        <div class="span5">
-            <img src="../assets/pics/chen_head_small.jpg"
+        <div class="span6">
+            <img src="../assets/pics/chen_head_horizontal.png"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
         </div>
     </div>
