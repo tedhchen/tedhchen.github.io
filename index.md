@@ -54,7 +54,5 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 ---
 
 <div class="container-narrownomargin pull-right">
-  <font size="1" color="darkslateblue">This website is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</font>
+  <font size="1" color="darkslateblue">The code for this website is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Profile photo taken by <a href="https://www.rubynguyen.photography/">Ruby Nguyen</a>. Images and text by me are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</font>
 </div>
-
-
