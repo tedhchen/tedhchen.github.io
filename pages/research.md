@@ -161,6 +161,11 @@ Work in this category include papers from my dissertation project, which uses mu
 				<li><a href="{{ BASE_PATH }}/assets/papers/2017_Chen_Zachary_Fariss_Social_Activity_Hubs.pdf" target="_blank">Peer-reviewed paper</a> published in <a href="https://dl.acm.org/citation.cfm?id=3145606" target="_blank" rel="noreferrer"><i>Proceedings of the 2017 International Conference of The Computational Social Science Society of the Americas</i></a></li>
 				<li>Coauthored with Paul Zachary and <a href="http://cfariss.com/" target="_blank" rel="noreferrer">Christopher Fariss</a></li>
 			</ul>
+		<h5>The Elephant in the Voting Booth?: Assessing the Effect of the 2005 Taiwanese Electoral Reform in Reducing Vote-Buying and Local Factional Politics</h5>
+			<ul>
+				<li>Paper published in <a href="https://doi.org/10.1525/as.2021.61.4.641" target="_blank" rel="noreferrer"><i>Asian Survey</i></a></li>
+				<li>Coauthored with Chung-li Wu</li>
+			</ul>
 		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
 			<ul>
 				<li>Paper published in <a href="https://doi.org/10.1017/S1468109914000097" target="_blank" rel="noreferrer"><i>Japanese Journal of Political Science</i></a></li>
