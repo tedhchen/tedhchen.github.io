@@ -11,6 +11,9 @@ This is a workshop on ERGMs held as part of the 2021 Political Networks Conferen
 ##### Computational Social Science for Climate Governance
 This is the joint graduate-level course for students in Global Climate Governance (Univ Helsinki GPC-O319) and Applied Data Science (Aalto Univ CS-E5770). Access the course website [here]({{ BASE_PATH }}/ClimateGovernanceCSS){:target="_blank"}.
 
+##### Climate Justice in the U.S. Context from a Political Perspective
+Description for a planned course in climate justice in the U.S. context. Access the description [here]({{ BASE_PATH }}/assets/environment_justice_course.pdf){:target="_blank"}.
+
 ##### Independent Research on Political Assassinations (Undergraduate)
 Research seminar for advanced undergraduate students at Pennsylvania State University.
 - [Syllabus]({{ BASE_PATH }}/assets/teaching/plsc496_syllabus.pdf){:target="_blank"}
