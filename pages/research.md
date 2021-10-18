@@ -38,7 +38,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 			<ul>
 				<li>Paper published in <a href="https://doi.org/10.1016/j.gloenvcha.2021.102348" target="_blank" rel="noreferrer"><i>Global Environmental Change</i></a></li>
 				<li>2021 Best Conference Paper Award, Political Networks Section, American Political Science Association</li>
-				<li><a href="https://youtu.be/1tKHfqyC9OY" target="_blank" rel="noreferrer">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop" target="_blank" rel="noreferrer">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/assets/pcnet20_slides.pdf" target="_blank">Slides</a>)</li>
+				<li><a href="https://youtu.be/1tKHfqyC9OY" target="_blank" rel="noreferrer">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop" target="_blank" rel="noreferrer">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/presentations/pcnet20_slides.pdf" target="_blank">Slides</a>)</li>
 				<li>Coauthored with Ali Salloum, <a href="https://researchportal.helsinki.fi/en/persons/antti-gronow" target="_blank" rel="noreferrer">Antti Gronow</a>, <a href="https://researchportal.helsinki.fi/en/persons/tuomas-yl%C3%A4-anttila" target="_blank" rel="noreferrer">Tuomas Yla-Anttilä</a>, and <a href="http://www.mkivela.com/" target="_blank" rel="noreferrer">Mikko Kivelä</a></li>
 			</ul>
 		</div>
@@ -51,7 +51,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 		<h5>Exposure to Natural Disasters Mobilizes Voting: Evidence from Hurricane Harvey in Houston</h5>
 			<ul>
 				<li>Coauthored with <a href="http://cfariss.com" target="_blank" rel="noreferrer">Christopher Fariss</a> and <a href="https://xu-xu.net/" target="_blank" rel="noreferrer">Xu Xu</a></li>
-				<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf" target="_blank">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf" target="_blank">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/" target="_blank" rel="noreferrer">2018 Toronto Political Behaviour Workshop</a> and MPSA 2019</li>
+				<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf" target="_blank">Working Paper</a> and <a href="{{ BASE_PATH }}/presentations/chenfarissxu_harvey_mpsa2019.pdf" target="_blank">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/" target="_blank" rel="noreferrer">2018 Toronto Political Behaviour Workshop</a> and MPSA 2019</li>
 				<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644" target="_blank" rel="noreferrer">NSF Award</a></li>
 			</ul>
 		<h5>Income-based Inequality in Post-disaster Migration is Lower in High Resilience Areas: Evidence from U.S. Internal Migration</h5>
@@ -164,7 +164,7 @@ Work in this category include papers from my dissertation project, which uses mu
 				<li>Paper published in <a href="https://doi.org/10.1017/pan.2021.20"><i>Political Analysis</i></a></li>
 				<li>Coauthored with <a href="https://sites.psu.edu/cxs5700" target="_blank" rel="noreferrer">Christian Schmid</a> and <a href="http://brucedesmarais.com" target="_blank" rel="noreferrer">Bruce Desmarais</a></li>
 				<li><a href="https://github.com/schmid86/cERGM" target="_blank" rel="noreferrer">GitHub Repository</a> for companion R package cERGM</li>
-				<li><a href="{{ BASE_PATH }}/assets/presentations/schmidetal_scc_apsa2018.pdf" target="_blank">Presentation</a> for APSA 2018</li>
+				<li><a href="{{ BASE_PATH }}/presentations/schmidetal_scc_apsa2018.pdf" target="_blank">Presentation</a> for APSA 2018</li>
 			</ul>
 		<h5>Social Activity Hubs: Estimating User Specific Contextual Factors from Social Media Data</h5>
 			<ul>
