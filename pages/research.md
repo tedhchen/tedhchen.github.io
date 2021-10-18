@@ -36,7 +36,7 @@ My work in the area of climate politics focuses on the social consequences of cl
 		<h5>Polarization of Climate Politics Results from Partisan Sorting: Evidence from Finnish Twittersphere</h5>
 		<b>Abstract</b> Prior research shows that public opinion on climate politics sorts along partisan lines. However, they leave open the question of whether climate politics and other politically salient issues exhibit tendencies for issue alignment, which the political polarization literature identifies as among the most deleterious aspects of polarization. Using a network approach and social media data from the Twitter platform, we study polarization of public opinion toward climate politics and ten other politically salient topics during the 2019 Finnish elections as the emergence of opposing groups in a public forum. We find that while climate politics is not particularly polarized compared to the other topics, it is subject to partisan sorting and issue alignment within the universalist-communitarian dimension of European politics that arose following the growth of right-wing populism. Notably, climate politics is consistently aligned with the immigration issue, and temporal trends indicate that this phenomenon will likely persist.
 			<ul>
-				<li>Paper published in <i>Global Environmental Change</i> (<a href="https://arxiv.org/abs/2007.02706" target="_blank" rel="noreferrer">Preprint</a>)</li>
+				<li>Paper published in <a href="https://doi.org/10.1016/j.gloenvcha.2021.102348" target="_blank" rel="noreferrer"><i>Global Environmental Change</i></a></li>
 				<li>2021 Best Conference Paper Award, Political Networks Section, American Political Science Association</li>
 				<li><a href="https://youtu.be/1tKHfqyC9OY" target="_blank" rel="noreferrer">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop" target="_blank" rel="noreferrer">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/assets/pcnet20_slides.pdf" target="_blank">Slides</a>)</li>
 				<li>Coauthored with Ali Salloum, <a href="https://researchportal.helsinki.fi/en/persons/antti-gronow" target="_blank" rel="noreferrer">Antti Gronow</a>, <a href="https://researchportal.helsinki.fi/en/persons/tuomas-yl%C3%A4-anttila" target="_blank" rel="noreferrer">Tuomas Yla-Anttilä</a>, and <a href="http://www.mkivela.com/" target="_blank" rel="noreferrer">Mikko Kivelä</a></li>
@@ -48,11 +48,16 @@ My work in the area of climate politics focuses on the social consequences of cl
 <div class="container-narrownomargin">
     <div class="row-fluid">
         <div class="span7">
-		<h5>The Effect of Disaster-induced Displacement on Social and Political Behaviour: The Case of Hurricane Harvey</h5>
+		<h5>Exposure to Natural Disasters Mobilizes Voting: Evidence from Hurricane Harvey in Houston</h5>
 			<ul>
 				<li>Coauthored with <a href="http://cfariss.com" target="_blank" rel="noreferrer">Christopher Fariss</a> and <a href="https://xu-xu.net/" target="_blank" rel="noreferrer">Xu Xu</a></li>
 				<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf" target="_blank">Working Paper</a> and <a href="{{ BASE_PATH }}/assets/presentations/chenfarissxu_harvey_mpsa2019.pdf" target="_blank">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/" target="_blank" rel="noreferrer">2018 Toronto Political Behaviour Workshop</a> and MPSA 2019</li>
 				<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644" target="_blank" rel="noreferrer">NSF Award</a></li>
+			</ul>
+		<h5>Income-based Inequality in Post-disaster Migration is Lower in High Resilience Areas: Evidence from U.S. Internal Migration</h5>
+			<ul>
+				<li>Coauthored with <a href="https://boyoonlee.com" target="_blank" rel="noreferrer">Boyoon Lee</a></li>
+				<li><a href="https://doi.org/10.31235/osf.io/yvfqz" target="_blank">Working Paper</a> and <a href="{{ BASE_PATH }}/presentations/chenlee_apsa21.pdf" target="_blank">Presentation</a> for APSA 2021</li>
 			</ul>
 		<h5>Spread of Tweets in Climate Discussions: A Case Study of the 2019 Nobel Peace Prize Announcement</h5>
 			<ul>
