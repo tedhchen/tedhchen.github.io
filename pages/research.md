@@ -64,11 +64,6 @@ My work in the area of climate politics focuses on the social consequences of cl
 				<li>Paper published in <a href="https://doi.org/10.2478/njms-2021-0006" target="_blank" rel="noreferrer"><i>Nordic Journal of Media Studies</i></a></li>
 				<li>Coauthored with Yan Xia and <a href="http://www.mkivela.com/" target="_blank" rel="noreferrer">Mikko Kivelä</a></li>
 			</ul>		
-		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
-			<ul>
-				<li>Paper published in <a href="https://doi.org/10.1111/1468-5973.12021" target="_blank" rel="noreferrer"><i>Journal of Contingencies and Crisis Management</i></a></li>
-				<li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/" target="_blank" rel="noreferrer">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="https://www.business.mun.ca/our-people/faculty-instructors/chansoo-park.php" target="_blank" rel="noreferrer">Chansoo Park</a></li>
-			</ul>
         </div>
         <div class="span5">
             <img src="../assets/pics/houston_flooding.png"
@@ -76,7 +71,17 @@ My work in the area of climate politics focuses on the social consequences of cl
         </div>
     </div>
 </div> 
-
+<div class="container-narrownomargin">
+    <div class="row-fluid">
+		<div class="span12">
+		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
+			<ul>
+				<li>Paper published in <a href="https://doi.org/10.1111/1468-5973.12021" target="_blank" rel="noreferrer"><i>Journal of Contingencies and Crisis Management</i></a></li>
+				<li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/" target="_blank" rel="noreferrer">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="https://www.business.mun.ca/our-people/faculty-instructors/chansoo-park.php" target="_blank" rel="noreferrer">Chansoo Park</a></li>
+			</ul>
+		</div>
+    </div>
+</div> 
 ----
 
 ### <a name="Network Models of International Systems"></a>Network Models of International Systems
@@ -171,11 +176,6 @@ Work in this category include papers from my dissertation project, which uses mu
 				<li>Paper published in <a href="https://doi.org/10.1525/as.2021.61.4.641" target="_blank" rel="noreferrer"><i>Asian Survey</i></a></li>
 				<li>Coauthored with Chung-li Wu</li>
 			</ul>
-		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
-			<ul>
-				<li>Paper published in <a href="https://doi.org/10.1017/S1468109914000097" target="_blank" rel="noreferrer"><i>Japanese Journal of Political Science</i></a></li>
-				<li>Coauthored with <a href="https://tzuliu.github.io/tpphd/" target="_blank" rel="noreferrer">Tzu-Ping Liu</a> and Chung-li Wu</li>
-			</ul>
         </div>
 		<div class="span5">
             <img src="../assets/pics/scc_layers.png"
@@ -186,6 +186,11 @@ Work in this category include papers from my dissertation project, which uses mu
 <div class="container-narrownomargin">
     <div class="row-fluid">
 		<div class="span12">
+		<h5>Policy-Balancing and Ticket-Splitting: Problems with ‘Preference for Checks and Balances’ in Taiwanese Electoral Studies</h5>
+			<ul>
+				<li>Paper published in <a href="https://doi.org/10.1017/S1468109914000097" target="_blank" rel="noreferrer"><i>Japanese Journal of Political Science</i></a></li>
+				<li>Coauthored with <a href="https://tzuliu.github.io/tpphd/" target="_blank" rel="noreferrer">Tzu-Ping Liu</a> and Chung-li Wu</li>
+			</ul>
 		<h5>Exposure to Discretionary Arrests increases Support for Anti-Police Protests</h5>
 		<b>Abstract</b> The legitimacy of the state rests on individuals' perceptions of fairness when interacting with state institutions and state agents. Though a citizen will accept sanctions from the state and its agents when the benefits of enforced outcomes outweigh relinquished freedoms, fairness is essential to maintain this agreement. The police as an institution and as individual agents have wide latitude to detain and use force against individuals. We study support for and the legitimacy of policing in the context of the anti-police protests in Baltimore, MD following the death of Freddie Gray in April, 2015. Using data from police records and social media, we show that individuals with higher exposure to discretionary arrests --- arrests that are potentially viewed as illegitimate or arbitrary --- are more likely to support protests against the police. In contrast, we demonstrate that exposure to arrests for major crimes such as murder, does not follow the same pattern. Thus support for the police as an institution varies systematically with exposure to arbitrary and capricious encounters with police agents. As these grievance generating encounters become more widespread, we expect to see increased protests against the police and further erosion in support of the police as an institution. Alternatively, shifting institutional resources to focus on major crimes and limiting the discretionary authority of police agents when interacting with the public may help to repair the legitimacy of policing institutions over the long term.
 			<ul>
