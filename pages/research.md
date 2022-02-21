@@ -65,7 +65,12 @@ My work in the area of climate politics focuses on the social consequences of cl
 			<ul>
 				<li>Paper published in <a href="https://doi.org/10.2478/njms-2021-0006" target="_blank" rel="noreferrer"><i>Nordic Journal of Media Studies</i></a></li>
 				<li>Coauthored with Yan Xia and <a href="http://www.mkivela.com/" target="_blank" rel="noreferrer">Mikko Kivelä</a></li>
-			</ul>		
+			</ul>
+		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
+			<ul>
+				<li>Paper published in <a href="https://doi.org/10.1111/1468-5973.12021" target="_blank" rel="noreferrer"><i>Journal of Contingencies and Crisis Management</i></a></li>
+				<li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/" target="_blank" rel="noreferrer">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="https://www.business.mun.ca/our-people/faculty-instructors/chansoo-park.php" target="_blank" rel="noreferrer">Chansoo Park</a></li>
+			</ul>
         </div>
         <div class="span5">
             <img src="../assets/pics/houston_flooding.png"
@@ -76,11 +81,6 @@ My work in the area of climate politics focuses on the social consequences of cl
 <div class="container-narrownomargin">
     <div class="row-fluid">
 		<div class="span12">
-		<h5>Public–Private Partnerships for the Development of Disaster Resilient Communities</h5>
-			<ul>
-				<li>Paper published in <a href="https://doi.org/10.1111/1468-5973.12021" target="_blank" rel="noreferrer"><i>Journal of Contingencies and Crisis Management</i></a></li>
-				<li>Coauthored with Justine Chen, <a href="https://blogs.ubc.ca/ivertinsky/" target="_blank" rel="noreferrer">Ilan Vertinsky</a>, Lilia Yumagulova, and <a href="https://www.business.mun.ca/our-people/faculty-instructors/chansoo-park.php" target="_blank" rel="noreferrer">Chansoo Park</a></li>
-			</ul>
 		</div>
     </div>
 </div> 
