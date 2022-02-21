@@ -41,6 +41,13 @@ My work in the area of climate politics focuses on the social consequences of cl
 				<li><a href="https://youtu.be/1tKHfqyC9OY" target="_blank" rel="noreferrer">Video presentation</a> for <a href="https://pcnsatellitenetsci.wixsite.com/workshop" target="_blank" rel="noreferrer">Political Communication Networks Workshop 2020</a> (<a href="{{ BASE_PATH }}/presentations/pcnet20_slides.pdf" target="_blank">Slides</a>)</li>
 				<li>Coauthored with Ali Salloum, <a href="https://researchportal.helsinki.fi/en/persons/antti-gronow" target="_blank" rel="noreferrer">Antti Gronow</a>, <a href="https://researchportal.helsinki.fi/en/persons/tuomas-yl%C3%A4-anttila" target="_blank" rel="noreferrer">Tuomas Yla-Anttilä</a>, and <a href="http://www.mkivela.com/" target="_blank" rel="noreferrer">Mikko Kivelä</a></li>
 			</ul>
+		<h5>Income-based Inequality in Post-disaster Migration is Lower in High Resilience Areas: Evidence from U.S. Internal Migration</h5>
+		<b>Abstract</b> Residential relocation following environmental disasters is an increasingly necessary climate change adaptation measure. However, relocation is among the costliest individual-level adaptation measures, meaning that it may be cost prohibitive for disadvantaged groups. As climate change continues to worsen, it is important to better understand how existing socioeconomic inequalities affect climate migration and how they may be offset. In this study we use network regression models to look at how internal migration patterns in the United States vary by disaster-related property damage, household income, and local-level disaster resilience. Our results show that post-disaster migration patterns vary considerably by the income level of sending and receiving counties, which suggests that income-based inequality impacts both individuals' access to relocation and the ability of disaster-afflicted areas to rebuild. We further find evidence that income-based inequality in post-disaster outmigration is attenuated in areas with higher disaster resilience, not due to increased relocation out of poorer areas but instead because there is decreased relocation from richer ones. This finding suggests that, as climate adaptation measures, relocation and resilience-building are substitutes, with the implication that resilience incentivizes in situ adaptation, which can be a long term drain on individual wellbeing and climate adaptation resources.
+			<ul>
+				<li>Paper published in <a href="https://doi.org/10.1088/1748-9326/ac5692" target="_blank" rel="noreferrer"><i>Environmental Research Letters</i></a></li>
+				<li><a href="{{ BASE_PATH }}/presentations/chenlee_apsa21.pdf" target="_blank" rel="noreferrer">Presentation</a> for APSA 2021</li>
+				<li>Coauthored with <a href="https://boyoonlee.com" target="_blank" rel="noreferrer">Boyoon Lee</a></li>
+			</ul>
 		</div>
 	</div>
 </div>
@@ -53,11 +60,6 @@ My work in the area of climate politics focuses on the social consequences of cl
 				<li>Coauthored with <a href="http://cfariss.com" target="_blank" rel="noreferrer">Christopher Fariss</a> and <a href="https://xu-xu.net/" target="_blank" rel="noreferrer">Xu Xu</a></li>
 				<li><a href="{{ BASE_PATH }}/assets/papers/Chen_Fariss_Xu_Disaster-induced_Displacement.pdf" target="_blank">Working Paper</a> and <a href="{{ BASE_PATH }}/presentations/chenfarissxu_harvey_mpsa2019.pdf" target="_blank">Presentation</a> for the <a href="https://rubenson.org/events/tpbw2018/" target="_blank" rel="noreferrer">2018 Toronto Political Behaviour Workshop</a> and MPSA 2019</li>
 				<li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760644" target="_blank" rel="noreferrer">NSF Award</a></li>
-			</ul>
-		<h5>Income-based Inequality in Post-disaster Migration is Lower in High Resilience Areas: Evidence from U.S. Internal Migration</h5>
-			<ul>
-				<li>Coauthored with <a href="https://boyoonlee.com" target="_blank" rel="noreferrer">Boyoon Lee</a></li>
-				<li><a href="https://doi.org/10.31235/osf.io/yvfqz" target="_blank">Working Paper</a> and <a href="{{ BASE_PATH }}/presentations/chenlee_apsa21.pdf" target="_blank">Presentation</a> for APSA 2021</li>
 			</ul>
 		<h5>Spread of Tweets in Climate Discussions: A Case Study of the 2019 Nobel Peace Prize Announcement</h5>
 			<ul>
