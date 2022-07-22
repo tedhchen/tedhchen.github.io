@@ -7,8 +7,8 @@ description: Ted Hsuan Yun Chen is a postdoctoral researcher at Aalto University
 
 
 <div class="container-narrownomargin">
-<img src="../assets/pics/banners/pugwash_peacehall.jpg" 
-		title= "Taken at Pugwash, Nova Scotia on Jul 27, 2019." alt="Taken at Pugwash, Nova Scotia on Jul 27, 2019."/>
+<img src="../assets/pics/banners/helsinki_lasipalatsi.jpg" 
+		title= "Taken at Lasipalatsi, Helsinki on Jul 20, 2022." alt="Taken at Lasipalatsi, Helsinki on Jul 20, 2022."/>
 </div>
 
 
