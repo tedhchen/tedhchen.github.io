@@ -19,7 +19,7 @@ I am a postdoctoral researcher at the University of Helsinki and Aalto Universit
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf){:target="_blank"}. Details about my research and teaching can be found on their respective pages.<br/>
 
-To access the website for the workshop on Introduction to Exponential Random Graph Models held as a part of the 2021 Political Networks Conference, click [here]({{ BASE_PATH }}/ERGMintro){:target="_blank"}.
+To access the website for the workshop on Introduction to Exponential Random Graph Models held as a part of the 2022 Political Networks Conference, click [here]({{ BASE_PATH }}/ERGMintro){:target="_blank"}.
 
 
 ---
