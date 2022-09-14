@@ -15,7 +15,9 @@ description: Ted Hsuan Yun Chen is an assistant professor at George Mason Univer
 
 ### Welcome to my website.
 
-I am an assistant professor at George Mason University studying climate change politics using network methods. I was previously a postdoctoral researcher at the University of Helsinki and Aalto University, and I received my PhD in Political Science from Pennsylvania State University. My research agenda focuses on the social and political consequences of climate change and the efforts to stem these negative and often conflictual outcomes. I also have a methodological focus in developing computational and network approaches for studying political phenomena as complex systems. My work has been published in outlets such as _Global Environmental Change_, _Political Science Research and Methods_, and _Political Analysis_.
+I am an assistant professor at George Mason University studying climate change politics using network methods. I was previously a postdoctoral researcher at the University of Helsinki and Aalto University, and I received my PhD in Political Science from Pennsylvania State University. 
+
+My research agenda focuses on the social and political consequences of climate change and efforts to stem these often unequal outcomes. I study the heterogeneity in how individuals adapt to climate change exposure, including through political participation and migration, and how activism and science communication influence preferences toward climate policies. I also have a methodological focus in developing network approaches for studying complexity in political phenomena, with emphasis on multilayer network representations of social and political systems. My work has been published in outlets such as _Global Environmental Change_, _Political Science Research and Methods_, and _Political Analysis_.
 
 My academic history is summarized in my [curriculum vitae]({{ BASE_PATH }}/assets/chen_cv.pdf){:target="_blank"}. Details about my research and teaching can be found on their respective pages.<br/>
 
