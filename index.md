@@ -36,10 +36,10 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 				<div id="hide_email">
 					<code>te</code><b>I</b><code>d.hsuan</code><b>don't</b><code>yun.ch</code><b>want</b><code>en@g</code><b>spam!</b><code>ma</code><b>So</b><code>il</code><b>please</b><code>.</code><b>leave</b><code>c</code><b>me</b><code>o</code><b>alone</b><code>m</code><br/>
 				</div>
-				<code>Twitter: <a href="https://twitter.com/tedhchen" target="_blank" rel="noreferrer">@tedhchen</a></code><br/>
 				<code>GitHub: <a href="https://github.com/tedhchen" target="_blank" rel="noreferrer">tedhchen</a></code><br/>
 				<code>ORCID: <a href="https://orcid.org/0000-0002-3279-8710" target="_blank" rel="noreferrer">0000-0002-3279-8710</a></code><br/>
 				<code>Google Scholar: <a href="http://bit.ly/GS_tedhchen" target="_blank" rel="noreferrer">GS_tedhchen</a></code><br/>
+				<code>Twitter: <a href="https://twitter.com/tedhchen" target="_blank" rel="noreferrer">@tedhchen</a></code><br/>
 			</div>
 			<div class="span6">
 
