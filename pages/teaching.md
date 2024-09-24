@@ -41,7 +41,7 @@ In this course, we will practice being informed consumers of social scientific r
 This is a workshop on ERGMs held as part of the 2021 Political Networks Conference. Access the workshop website and R tutorial materials [here]({{ BASE_PATH }}/ERGMintro){:target="_blank"}.
 
 ##### Climate Justice in the U.S. Context from a Political Perspective
-Description for a planned course in climate justice in the U.S. context. Access the description [here]({{ BASE_PATH }}/assets/environment_justice_course.pdf){:target="_blank"}.
+[Description]({{ BASE_PATH }}/assets/environment_justice_course.pdf){:target="_blank"} for a planned course in climate justice in the U.S. context.
 
 ##### Independent Research on Political Assassinations (Undergraduate)
 Research seminar for advanced undergraduate students at Pennsylvania State University.
