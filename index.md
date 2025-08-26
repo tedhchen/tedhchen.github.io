@@ -38,8 +38,8 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 				</div>
 				<code>GitHub: <a href="https://github.com/tedhchen" target="_blank" rel="noreferrer">tedhchen</a></code><br/>
 				<code>ORCID: <a href="https://orcid.org/0000-0002-3279-8710" target="_blank" rel="noreferrer">0000-0002-3279-8710</a></code><br/>
-				<code>Google Scholar: <a href="http://bit.ly/GS_tedhchen" target="_blank" rel="noreferrer">GS_tedhchen</a></code><br/>
-				<code>Twitter: <a href="https://twitter.com/tedhchen" target="_blank" rel="noreferrer">@tedhchen</a></code><br/>
+				<code>Google Scholar: <a href="https://scholar.google.com/citations?user=a0wJsDYAAAAJ" target="_blank" rel="noreferrer">a0wJsDYAAAAJ</a></code><br/>
+				<code>Bluesky: <a href="https://bsky.app/profile/tedhchen.com" target="_blank" rel="noreferrer">@tedhchen.com</a></code><br/>
 			</div>
 			<div class="span6">
 
