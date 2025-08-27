@@ -47,7 +47,7 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 		</div>
         </div>
         <div class="span6">
-            <img src="../assets/pics/chen_head_horizontal.png"
+            <img src="../assets/pics/chen_head_horizontal2025.png"
                   title="Ted Hsuan Yun Chen" alt="Ted Hsuan Yun Chen"/>
         </div>
     </div>
@@ -56,5 +56,5 @@ To access the website for the workshop on Introduction to Exponential Random Gra
 ---
 
 <div class="container-narrownomargin pull-right">
-  <font size="1" color="darkslateblue">The code for this website is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>. Profile photo taken by <a href="https://www.rubynguyen.photography/" target="_blank" rel="noreferrer">Ruby Nguyen</a>. Images and text by me are licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a>.</font>
+  <font size="1" color="darkslateblue">The code for this website is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>. Profile photo taken by Nari Yoon. Images and text by me are licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a>.</font>
 </div>
